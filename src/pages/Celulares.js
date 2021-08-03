@@ -1,9 +1,11 @@
 import React from 'react'
+import ListingProducts from '../components/dummyComponents/ListingProducts'
 
 const Celulares = () => {
     return (
         <div>
-            <h2>ESTA ES LA SECCION CELULARES</h2>
+            
+            <ListingProducts article="cellphone" />
         </div>
     )
 }

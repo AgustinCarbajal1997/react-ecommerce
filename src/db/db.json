@@ -1,0 +1,784 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "article":"cellphone",
+            "title":"Samsung Galaxy A51 128 GB Negro",
+            "images":[
+                "https://images.fravega.com/s500/77cb4cf98ab39fe4e3157c44d2dced2a.jpg",
+                "https://images.fravega.com/s500/c6c0c9460c0133cfc23a6b95aa5a1e95.jpg",
+                "https://images.fravega.com/s500/1c134c32ca62b9f84333aefda2b077d5.jpg",
+                "https://images.fravega.com/s500/9fbbbbfe83851e3b7d7f41365d79479d.jpg",
+                "https://images.fravega.com/s500/c6c0c9460c0133cfc23a6b95aa5a1e95.jpg",
+                "https://images.fravega.com/s500/edc414d443ec86471a483ab673d59c58.jpg"
+            
+            ],
+            "price":47.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna de 128 GB y la posibilidad de expandirla, con una tarjeta microSD, hasta 512 GB. Vas a poder descargar aplicaciones, almacenar videos, fotos y música sin problemas."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"El Celular Samsung Galaxy A51 tiene un impresionante sistema multicámara para la parte principal. En total son 5 cámaras que te van a permitir capturar todo tipo de imágenes con una resolución increíble. Su sistema trasero tiene 4 cámaras con las siguientes resoluciones: 48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP. En tanto, su sistema frontal ofrece una cámara de 32 MP, para que saques las mejores selfies. "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Samsung Galaxy A51 cuenta con un elegante e innovador diseño que incluye una pantalla con tecnología Super AMOLED con una increíble resolución Full HD (1080 x 2400)."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP (apertura múltiple: F2.0 , F2.2 , F2.4 , F2.2)"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.5"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "article":"cellphone",
+            "title":"Samsung Galaxy A32 128 GB Negro",
+            "images":[
+                "https://images.fravega.com/s500/a17ab6f3ad0b86f06376c0947efe88f5.jpg",
+                "https://images.fravega.com/s500/690b377eef827293285532fcb357a034.jpg",
+                "https://images.fravega.com/s500/52438c09a01ff0beee3e2db8f64dc2a4.jpg",
+                "https://images.fravega.com/s500/5639344716e4f45f2876cf9718b82eda.jpg",
+                "https://images.fravega.com/s500/86ded029f89aeab9af69b6c27d2ff220.jpg",
+                "https://images.fravega.com/s500/6f3e7794e939d70afe890c895c75c991.jpg"
+            
+            ],
+            "price":47.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Experimentá su diseño",
+                    "paragraph":"El Celular Samsung Galaxy A32 presenta un diseño ergonómico, elegante y delgado. Con la pantalla de 6.4' vas a poder sumergirte en tus juegos y videos favoritos. Además, con su tecnología Super AMOLED, de extremo a extremo, con un marco casi inexistente, el Galaxy A32 rediseña tus momentos de entretenimiento. Su resolución es de 1080 x 2400p (FHD+)."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Capturá más de lo que te llama la atención. Hacé que tus fotos luzcan mejor en cada marco. La Quad Cam del A32 te ofrece una facilidad de uso y calidad de nivel profesional, ya que cuenta con una cámara principal de 64MP, más una cámara ultra ancha de 8 MP, más una cámara macro de 5MP y una cámara de profundidad de 5MP. La cámara frontal ofrece 20 MP."
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"Su batería de 5000 mAh te ofrece está lista para durar todo el día."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa-Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y realizar múltiples tareas al mismo tiempo. Además, su sistema operativo Android es eficiente y fácil de usar."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Samsung Galaxy A51 cuenta con un elegante e innovador diseño que incluye una pantalla con tecnología Super AMOLED con una increíble resolución Full HD (1080 x 2400)."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"64.0 MP + 8.0 MP + 5.0 MP + 5.0 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.4"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "article":"cellphone",
+            "title":"LG K42 64 GB Gris",
+            "images":[
+                "https://images.fravega.com/s500/1d8b40a51dc53b55a5d184502a8c165e.jpg",
+                "https://images.fravega.com/s500/a0ff7412288d9eac0fb11e65e68f2c1d.jpg",
+                "https://images.fravega.com/s500/a6ff988587487826ccec921a430efb97.jpg",
+                "https://images.fravega.com/s500/f1b03d71c462d0bf853a09fc98ce4c2a.jpg",
+                "https://images.fravega.com/s500/f1bdaa6524d5bdb950eee165092f10e0.jpg",
+                "https://images.fravega.com/s500/3b56d3b30b959e4ce67e076596a6bf76.jpg"
+            
+            ],
+            "price":24.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna (ROM) de 64GB. No te quedarás sin espacio para almacenar música, fotos y videos. *Hay que tener en cuenta que la memoria interna disponible para el usuario es siempre menor debido al sistema operativo, interfaces y aplicaciones preinstaladas."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Sacá las mejores fotos y grabá videos en muy buena calidad gracias a su cámara cuádruple de 13/5/2/2 MP. Mientras que con su cámara frontal de 8 MP podrás sacar selfies y recibir videollamadas. "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Celular LG K42 ofrece un diseño moderno, simple y ergonómico. A su vez, cuenta con una pantalla de 6,6' pulgadas. Sus bordes minimalistas te brindan la emoción de un teléfono lo suficientemente grande para tu entretenimiento y calza perfectamente en la palma de tu mano."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"13/5/2/2 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"64 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"720x1600"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android 10"
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "article":"cellphone",
+            "title":"Samsung A01 Core 16 GB Negro",
+            "images":[
+                "https://images.fravega.com/s500/6e762fc3f976bb24b57b32b5a7517c0d.jpg",
+                "https://images.fravega.com/s500/db9c756182d47cf849ebd178fce8c12c.jpg",
+                "https://images.fravega.com/s500/080fa76041464b5ff0601fb481f89406.jpg",
+                "https://images.fravega.com/s500/33f3223c513da0848003be13a0ccf4a9.jpg",
+                "https://images.fravega.com/s500/3916ec505d6d0bcd42bd14164b4f1c4a.jpg",
+                "https://images.fravega.com/s500/73a9936f7a6bf5b35ac3170c2307f48b.jpg"
+            
+            ],
+            "price":15.499,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna (ROM) de 16 GB mientras que la externa se puede expandir mediante una tarjeta micro SD hasta 512 GB. Vas a poder almacenar videos, fotos y música sin problemas."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Conseguí imágenes claras y brillantes con su cámara trasera de 8 megapíxeles. Por otro lado obtené las mejores selfies con su cámara frontal de 5 megapíxeles. "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Quad-Core y la memoria RAM de 1 GB te permitirán ejecutar aplicaciones y realizar múltiples tareas al mismo tiempo. Además, su sistema operativo Android es eficiente y fácil de usar. "
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Celular Samsung A01 Core presenta un diseño ergonómico y elegante. Con la pantalla HD de 5,3 pulgadas con una resolución de 1480 x 720 vas a poder sumergirte en tus juegos y videos favoritos."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"8 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"16 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"5.3"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android Go 10.0"
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "article":"cellphone",
+            "title":"Samsung Galaxy A71 128 GB Negro",
+            "images":[
+                "https://images.fravega.com/s500/03f0041a5f41041f67da4976b432341f.jpg",
+                "https://images.fravega.com/s500/0d588cd7d37da2b12ba3582f1c9606b1.jpg",
+                "https://images.fravega.com/s500/2183463a1b6b9a68070feb73124be7ec.jpg",
+                "https://images.fravega.com/s500/947613cb5ab8a473a725c95721d7de5a.jpg"
+            
+            ],
+            "price":63.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna de 128 GB y la posibilidad de expandirla, con una tarjeta microSD, hasta 512 GB. Vas a poder descargar aplicaciones, almacenar videos, fotos y música sin problemas."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Capturá más de lo que te llama la atención. Hacé que tus fotos luzcan mejor en cada marco. La Quad Cam del A71 te ofrece una facilidad de uso y calidad de nivel profesional, ya que cuenta con una cámara principal de 64MP, más una cámara ultra ancha de 123° de 12 MP, más una cámara macro de 5MP y una cámara de profundidad de 5MP."
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa-Core y la memoria RAM de 6 GB te permitirán ejecutar aplicaciones y realizar múltiples tareas al mismo tiempo. Además, su sistema operativo Android es eficiente y fácil de usar."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Celular Samsung Galaxy A71 presenta un diseño ergonómico, elegante y delgado. Con la pantalla de 6.7' vas a poder sumergirte en tus juegos y videos favoritos. Además, con su tecnología Super AMOLED, de extremo a extremo, con un marco casi inexistente, el Galaxy A71 rediseña tus momentos de entretenimiento."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP (apertura múltiple: F2.0 , F2.2 , F2.4 , F2.2)"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.5"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"",
+                    "especifications1":"",
+                    "especifications2":""
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "article":"cellphone",
+            "title":"LG K22 32 GB Azul",
+            "images":[
+                "https://images.fravega.com/s500/9211dbdc8014691ec7facd3e45675a28.jpg",
+                "https://images.fravega.com/s500/bd7cf6f593815cb73ec234bf6d3361ba.jpg",
+                "https://images.fravega.com/s500/9545b4fed962e360adb06b1dd00c6e8c.jpg",
+                "https://images.fravega.com/s500/c00d6e65c33284f2665b72481418dc0a.jpg",
+                "https://images.fravega.com/s500/2201601d60e8bd8be34a6d43afdfcd08.jpg",
+                "https://images.fravega.com/s500/d1a608d03019287cbbe84e5369cb32b7.jpg"
+            
+            ],
+            "price":17.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna (ROM) de 32 GB. No te quedarás sin espacio para almacenar música, fotos y videos. Además, cuenta con la posibilidad de sumar hasta 32 GB de memoria con una tarjeta Micro Sd."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Sacá las mejores fotos y grabá videos en muy buena calidad gracias a que posee una cámara principal doble de 13 MP y una cámara Macro 2 MP (para obtener bellas fotos en primer plano de la naturaleza) con foco PDAF y con flash. Además su cámara frontal tiene 5 MP para sacar selfies o recibir llamadas. "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Celular LG K22 ofrece un diseño moderno, simple y ergonómico. A su vez, cuenta con una pantalla de 6,2' FullVision HD+ y una resolución de 720 x 1520; para que puedas ver todo con la mejor calidad. Sus bordes minimalistas te brindan la emoción de un teléfono lo suficientemente grande para todo tu entretenimiento, a la vez que calza perfectamente en la palma de tu mano. Asimismo, su certificación militar hará que puedas disfrutar del LG K22 sin preocuparte demasiado por las caídas."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"13MP / Macro 2MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"32 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.2"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"",
+                    "especifications1":"",
+                    "especifications2":""
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "article":"cellphone",
+            "title":"Samsung Galaxy S20FE 128 GB Azul",
+            "images":[
+                "https://images.fravega.com/s500/83a0a11263c7f4db3e7008b315a03f65.jpg",
+                "https://images.fravega.com/s500/d74dfc90acf0618c34d484793a719821.jpg",
+                "https://images.fravega.com/s500/64685780759c45dba379325526dcd501.jpg",
+                "https://images.fravega.com/s500/dd82227b0a7c697f19bc0dbec2f23f08.jpg",
+                "https://images.fravega.com/s500/9f5d80edaec01bc5b99d347d4a306dc4.jpg",
+                "https://images.fravega.com/s500/4f995b611bca200c0c6487b6e3939841.jpg"
+            
+            ],
+            "price":47.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna (ROM) de 128GB* de almacenamiento mientras que la externa se puede expandir mediante una tarjeta micro SD hasta 1TB. Vas a poder almacenar videos, fotos y música sin problemas. "
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"El Celular Samsung Galaxy S20FE tiene un impresionante sistema multicámara para la parte principal. En total son 5 cámaras que te van a permitir capturar todo tipo de imágenes con una resolución increíble. Su sistema trasero tiene 4 cámaras con las siguientes resoluciones: 48.0 MP + 12.0 MP + 5.0 MP + 5.0 MP. En tanto, su sistema frontal ofrece una cámara de 32 MP, para que saques las mejores selfies. "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"Su batería de 4500 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo. "
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Galaxy S20FE presenta un diseño ergonómico y elegante. Con la pantalla Super Amoled de 6.5' pulgadas con una resolución de 1080x2400 FHD vas a poder sumergirte en tus juegos y videos favoritos. La gran pantalla Infinity-O del Galaxy S20FE rediseña tus momentos de entretenimiento. "
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"12 MP + 12MP + 8 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.5"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"",
+                    "especifications1":"",
+                    "especifications2":""
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "article":"cellphone",
+            "title":"Samsung Galaxy S20FE 128 GB Rojo",
+            "images":[
+                "https://images.fravega.com/s500/3bba0a5300b388543cced2e973b11d2e.jpg",
+                "https://images.fravega.com/s500/c42523d74e26185cb493c73edae73c19.jpg",
+                "https://images.fravega.com/s500/24a65a24889f69858191040cd0246689.jpg",
+                "https://images.fravega.com/s500/f68e3ec9bfa6442ef9015144a77411e5.jpg"
+            
+            ],
+            "price":77.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna (ROM) de 128GB* de almacenamiento mientras que la externa se puede expandir mediante una tarjeta micro SD hasta 1TB. Vas a poder almacenar videos, fotos y música sin problemas. "
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"El Galaxy S20FE presenta un diseño ergonómico y elegante. Con la pantalla Super Amoled de 6.5' pulgadas con una resolución de 1080x2400 FHD vas a poder sumergirte en tus juegos y videos favoritos. La gran pantalla Infinity-O del Galaxy S20FE rediseña tus momentos de entretenimiento.  "
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"La batería de 4000 mAh le otorga una gran autonomía de uso, por lo que podrás disfrutarlo durante todo el día sin necesidad de recargarlo."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa Core y la memoria RAM de 4 GB te permitirán ejecutar aplicaciones y múltiples tareas al mismo tiempo. Además, su sistema operativo Android es super eficiente e intuitivo."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Galaxy S20FE cuenta con un elegante e innovador diseño que incluye una pantalla con tecnología Super AMOLED con una increíble resolución Full HD (1080 x 2400)."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"12 MP + 12MP + 8 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.5"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"",
+                    "especifications1":"",
+                    "especifications2":""
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        },
+        {
+            "id":9,
+            "article":"cellphone",
+            "title":"Samsung Galaxy A72 128 GB Negro",
+            "images":[
+                "https://images.fravega.com/s500/e5bd6d9d73deaffdbe7f6a006e58d99c.jpg",
+                "https://images.fravega.com/s500/f8944e4b4492f62f9a53c03544fb159b.jpg",
+                "https://images.fravega.com/s500/5df626489b99d3af5a04488e81267ec7.jpg",
+                "https://images.fravega.com/s500/aa68149f1553e9cd5eab9c2a2c674932.jpg",
+                "https://images.fravega.com/s500/283a9b51961071e512ce4626db9b1523.jpg",
+                "https://images.fravega.com/s500/db35f7271b9d32fd6f62b172aa802376.jpg"
+            
+            ],
+            "price":72.999,
+            "unites":"4",
+            "description": [
+                {
+                    "title":"Guardá lo que quieras",
+                    "paragraph":"Posee una memoria interna de 128 GB y la posibilidad de expandirla, con una tarjeta microSD, hasta 512 GB. Vas a poder descargar aplicaciones, almacenar videos, fotos y música sin problemas."
+                },
+                {
+                    "title":"Capturá tus momentos",
+                    "paragraph":"Capturá más de lo que te llama la atención. Hacé que tus fotos luzcan mejor en cada marco. La Quad Cam del A72 te ofrece una facilidad de uso y calidad de nivel profesional, ya que cuenta con una cámara principal de 64MP, más una cámara ultra ancha de 12 MP, más una cámara macro de 5MP y una cámara de profundidad de 8MP. La cámara frontal ofrece 32 MP."
+                },
+                {
+                    "title":"Viví conectado",
+                    "paragraph":"El wifi y LTE inteligentes te conectan más rápido a tu contenido favorito. Compartí más rápido y mantenete conectado incluso entre la multitud."
+                },
+                {
+                    "title":"No te quedes sin batería",
+                    "paragraph":"Su batería de 5000 mAh te ofrece está lista para durar todo el día."
+                },
+                {
+                    "title":"Disfrutá de un gran rendimiento",
+                    "paragraph":"Su procesador Octa-Core y la memoria RAM de 6 GB te permitirán ejecutar aplicaciones y realizar múltiples tareas al mismo tiempo. Además, su sistema operativo Android es eficiente y fácil de usar."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Galaxy A72 presenta un diseño ergonómico, elegante y delgado. Con la pantalla de 6.7' vas a poder sumergirte en tus juegos y videos favoritos. Además, con su tecnología Super AMOLED, de extremo a extremo, con un marco casi inexistente, el Galaxy A72 rediseña tus momentos de entretenimiento. Su resolución es de 1080 x 2400p (FHD+)."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Cámara",
+                    "especifications1":"Cámara principal",
+                    "especifications2":"64.0 MP + 12.0 MP + 5.0 MP + 8.0 MP"
+                },
+                {
+                    "title":"Memoria",
+                    "especifications1":"Memoria interna (ROM)",
+                    "especifications2":"128 GB"
+                },
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño Pantalla",
+                    "especifications2":"6.5"
+                },
+                {
+                    "title":"Red",
+                    "especifications1":"4G-LTE",
+                    "especifications2":"Dual Chip"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Bluetooth",
+                    "especifications2":"USB C"
+                },
+                {
+                    "title":"Características generales ",
+                    "especifications1":"Sistema operativo",
+                    "especifications2":"Android"
+                },
+                {
+                    "title":"",
+                    "especifications1":"",
+                    "especifications2":""
+                },
+                {
+                    "title":"Bateria",
+                    "especifications1":"Bateria",
+                    "especifications2":"4000 mAh"
+                },
+                {
+                    "title":"Dimensiones",
+                    "especifications1":"Dimensiones",
+                    "especifications2":"158,5 x 73,6 x 7,9 mm"
+                }
+            ]
+        }
+        
+    ]
+
+   
+}
