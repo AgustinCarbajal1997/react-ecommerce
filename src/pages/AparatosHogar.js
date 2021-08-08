@@ -1,9 +1,10 @@
 import React from 'react'
+import ListingProducts from '../components/dummyComponents/ListingProducts'
 
 const AparatosHogar = () => {
     return (
         <div>
-            <h2>ESTA ES LA SECCION DE ELECTRODOMESTICOS PARA EL HOGAR</h2>
+            <ListingProducts article="split"/>
         </div>
     )
 }

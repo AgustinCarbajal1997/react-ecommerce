@@ -1,9 +1,10 @@
 import React from 'react'
+import ListingProducts from '../components/dummyComponents/ListingProducts'
 
 const Tvs = () => {
     return (
         <div>
-            <h2>ESTA ES LA SECCION DE TELEVISORES</h2>
+            <ListingProducts article="tv"/>
         </div>
     )
 }

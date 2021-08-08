@@ -407,11 +407,6 @@
                     "especifications2":"Android"
                 },
                 {
-                    "title":"",
-                    "especifications1":"",
-                    "especifications2":""
-                },
-                {
                     "title":"Bateria",
                     "especifications1":"Bateria",
                     "especifications2":"4000 mAh"
@@ -494,11 +489,6 @@
                     "title":"Características generales ",
                     "especifications1":"Sistema operativo",
                     "especifications2":"Android"
-                },
-                {
-                    "title":"",
-                    "especifications1":"",
-                    "especifications2":""
                 },
                 {
                     "title":"Bateria",
@@ -585,11 +575,6 @@
                     "especifications2":"Android"
                 },
                 {
-                    "title":"",
-                    "especifications1":"",
-                    "especifications2":""
-                },
-                {
                     "title":"Bateria",
                     "especifications1":"Bateria",
                     "especifications2":"4000 mAh"
@@ -670,11 +655,6 @@
                     "title":"Características generales ",
                     "especifications1":"Sistema operativo",
                     "especifications2":"Android"
-                },
-                {
-                    "title":"",
-                    "especifications1":"",
-                    "especifications2":""
                 },
                 {
                     "title":"Bateria",
@@ -761,11 +741,6 @@
                     "especifications2":"Android"
                 },
                 {
-                    "title":"",
-                    "especifications1":"",
-                    "especifications2":""
-                },
-                {
                     "title":"Bateria",
                     "especifications1":"Bateria",
                     "especifications2":"4000 mAh"
@@ -776,7 +751,978 @@
                     "especifications2":"158,5 x 73,6 x 7,9 mm"
                 }
             ]
+        },
+        {
+            "id":10,
+            "article":"tv",
+            "title":"TCL Smart TV LED 75” UHD 4K Android",
+            "images":[
+                "https://images.fravega.com/s500/45f42cfdf20ea2b3539f78bb4d82bb78.jpg",
+                "https://images.fravega.com/s500/b79e93c9f1533f4e31314ea034414a53.jpg",
+                "https://images.fravega.com/s500/f6e51dc4689629fd43eac42772ba5f8a.jpg",
+                "https://images.fravega.com/s500/2b4c2264405829a04094fac3ea77d8c7.jpg"
+            
+            ],
+            "price":216.000,
+            "unites":"7",
+            "description": [
+                {
+                    "title":"Descargá tus aplicaciones",
+                    "paragraph":"La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. "
+                },
+                {
+                    "title":"Conectá tu dispositivos",
+                    "paragraph":"Mediante sus 3 entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de sus 2 puertos USB, podrás reproducir contenido multimedia (música, fotos y videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+                },
+                {
+                    "title":"Disfrutá 4K UHD",
+                    "paragraph":"El Smart TV Philips 70 pulgadas cuenta con una pantalla formato widescreen (16:9) con resolución de 3840 x 2160 píxeles (cuatro veces superior a la de una TV Full HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos. Además, a diferencia de otras pantallas LED, el optimizador Pixel Precise Ultra HD de Philips le da una mayor nitidez, imágenes fluidas y una profundidad asombrosa. Disfrutá de sus graves profundos y diálogos nítidos."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Smart TV Philips PUG6774/77 posee un diseño con bases delgadas y refinadas, que transmiten liviandad."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"75'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":11,
+            "article":"tv",
+            "title":"Philips Smart TV 4k UHD 70” PUG6774/77",
+            "images":[
+                "https://images.fravega.com/s500/3776bf70a4c073149b4ad425f2548620.jpg",
+                "https://images.fravega.com/s500/a7ed727152c2d1d3d2844881d84857ff.jpg"
+            
+            ],
+            "price":149.999,
+            "unites":"3",
+            "description": [
+                {
+                    "title":"Descargá tus aplicaciones",
+                    "paragraph":"La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. "
+                },
+                {
+                    "title":"Conectá tu dispositivos",
+                    "paragraph":"Mediante sus 3 entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de sus 2 puertos USB, podrás reproducir contenido multimedia (música, fotos y videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+                },
+                {
+                    "title":"Disfrutá 4K UHD",
+                    "paragraph":"El Smart TV Philips 70 pulgadas cuenta con una pantalla formato widescreen (16:9) con resolución de 3840 x 2160 píxeles (cuatro veces superior a la de una TV Full HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos. Además, a diferencia de otras pantallas LED, el optimizador Pixel Precise Ultra HD de Philips le da una mayor nitidez, imágenes fluidas y una profundidad asombrosa. Disfrutá de sus graves profundos y diálogos nítidos."
+                },
+                {
+                    "title":"Diseño",
+                    "paragraph":"El Smart TV Philips PUG6774/77 posee un diseño con bases delgadas y refinadas, que transmiten liviandad."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"75'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":12,
+            "article":"tv",
+            "title":"Noblex Smart TV 55' 4K DK55X6500",
+            "images":[
+                "https://images.fravega.com/s500/1a689fed2b4cf083b9291129a0e33670.jpg",
+                "https://images.fravega.com/s500/f43cb1c8e7d03399e2407ea925dd4dbe.jpg",
+                "https://images.fravega.com/s500/712eecfcbbec25875fddcd096923f6d6.jpg",
+                "https://images.fravega.com/s500/cfcee153cf876d08d5e370ad63bf2437.jpg"
+            ],
+            "price":74.999,
+            "unites":"8",
+            "description": [
+                {
+                    "title":"Descargá tus aplicaciones",
+                    "paragraph":"La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV. "
+                },
+                {
+                    "title":"Conectá tu dispositivos",
+                    "paragraph":"Mediante sus 2 puertos USB podrás reproducir música, fotos y videos almacenados en tus dispositivos externos como tablets, smarthphones y pendrives. Además, a través de sus 2 entradas HDMI, vas a poder vincular reproductores de audio y video; consolas de juegos y notebooks."
+                },
+                {
+                    "title":"Disfrutá 4K UHD",
+                    "paragraph":"El Smart TV Noblex 55' DK55X6500 cuenta con una pantalla de visualización LED con una resolución 4K UHD (3840 x 2160 píxeles) que brinda una gran calidad de imagen y contraste."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"55'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":13,
+            "article":"tv",
+            "title":"TCL Smart TV 55' QLED 4K Ultra HD",
+            "images":[
+                "https://images.fravega.com/s500/6733b79ebdf594370e1893e191d28713.jpg",
+                "https://images.fravega.com/s500/5afa35458b2e1de158cd6dbd780f01f9.jpg",
+                "https://images.fravega.com/s500/22d963001d8045e5ae83a8dedc6be68e.jpg",
+                "https://images.fravega.com/s500/b79e93c9f1533f4e31314ea034414a53.jpg",
+                "https://images.fravega.com/s500/f6e51dc4689629fd43eac42772ba5f8a.jpg",
+                "https://images.fravega.com/s500/2b4c2264405829a04094fac3ea77d8c7.jpg"
+            
+            ],
+            "price":99.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Descargá tus aplicaciones",
+                    "paragraph":"La galería de aplicaciones de Philips te permite acceder a YouTube, Netflix y mucho más. Es una amplia colección de aplicaciones en línea a las que podés acceder tan pronto como tu Smart TV esté conectado a internet. Cuenta con SAPHI, un sistema operativo rápido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. "
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de su puerto USB, podrás reproducir contenido multimedia (música, fotos, videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+                },
+                {
+                    "title":"Disfrutá 4K UHD",
+                    "paragraph":"El Smart TV TCL L55C715 de 54,6 pulgadas cuenta con una pantalla formato widescreen (16:9) con una resolución de 3840 x 2160 píxeles (cuatro veces superior a la de una TV Full HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"75'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":14,
+            "article":"tv",
+            "title":"Smart TV 42' Full HD TCL L42S6500",
+            "images":[
+                "https://images.fravega.com/s500/e56d17ca976044828eefe7eea2d11cdf.jpg",
+                "https://images.fravega.com/s500/27e5c9f184ffca30ec181d1d587a4980.jpg",
+                "https://images.fravega.com/s500/187acfac828d131ea627d29141d8308a.jpg"
+            
+            ],
+            "price":47.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Conectá tus dispositivos",
+                    "paragraph":"Gracias a que viene con Wi-Fi incorporado vas a poder acceder a internet de forma inalámbrica o bien, a través de cable de red mediante su puerto LAN. Disfrutá de tus app preferidas como: Netflix y Youtube, entre otras."
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad. También, a través de su puerto USB, podrás reproducir contenido multimedia (música, fotos, videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+                },
+                {
+                    "title":"Disfrutá 4K UHD",
+                    "paragraph":"El Smart TV TCL L42S6500 de 41,5 pulgadas cuenta con una pantalla formato widescreen (16:9) con una resolución FULL HD de 1080 x 1920 píxeles (superior a la de una TV HD). A diferencia del estándar HD, su alto nivel de detalle brinda colores más puros y nítidos."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"42'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":15,
+            "article":"tv",
+            "title":"Samsung Smart TV 32' HD",
+            "images":[
+                "https://images.fravega.com/s500/0f7986d8733d8955027db49903447039.jpg",
+                "https://images.fravega.com/s500/d6b2c1a8fee1121e7abdcc459b49d473.jpg",
+                "https://images.fravega.com/s500/7e6b9c224a52dbe3249b5ba4ed0661b3.jpg"
+            
+            ],
+            "price":36.499,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Conectá tus dispositivos",
+                    "paragraph":"Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad."
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Gracias a posee Wi- Fi incorporado vas a poder acceder a internet de forma inalámbrica o bien, a través de cable de red mediante su puerto LAN. Navegá por la web y disfrutá de aplicaciones como Netflix, Facebook y Twitter, entre otras."
+                },
+                {
+                    "title":"Disfrutá HD",
+                    "paragraph":"El Smart TV Samsung 32” UN32T4300A cuenta con una pantalla de visualización widescreen (16:9) con resolución HD (1366 x 768 píxeles) que brinda una gran calidad de imagen y contraste."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"32'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":16,
+            "article":"tv",
+            "title":"Sansei Smart TV 50' 4K",
+            "images":[
+                "https://images.fravega.com/s500/74375047c81283ad22ee5347911ed44b.jpg",
+                "https://images.fravega.com/s500/eb1829d97a24a59fab30f1ad5d368f6f.jpg"
+            
+            ],
+            "price":53.999,
+            "unites":"9",
+            "description": [
+                {
+                    "title":"Conectá tus dispositivos",
+                    "paragraph":"Mediante sus entradas HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad."
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Gracias a posee Wi- Fi incorporado vas a poder acceder a internet de forma inalámbrica o bien, a través de cable de red mediante su puerto LAN. Navegá por la web y disfrutá de aplicaciones como Netflix, Facebook y Twitter, entre otras."
+                },
+                {
+                    "title":"Disfrutá HD",
+                    "paragraph":"El Smart TV  cuenta con una pantalla de visualización widescreen (16:9) con resolución HD (1366 x 768 píxeles) que brinda una gran calidad de imagen y contraste."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"50'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":17,
+            "article":"tv",
+            "title":"Philips Smart TV 50' UHD 4K",
+            "images":[
+                "https://images.fravega.com/s500/f2d133de4355f26d17041a8e235ceb21.jpg",
+                "https://images.fravega.com/s500/1a34cc5bcc2560ef807b5c69a1fcaea8.jpg"
+            
+            ],
+            "price":75.999,
+            "unites":"2",
+            "description": [
+                {
+                    "title":"Conectá tus dispositivos",
+                    "paragraph":"Mediante sus 2 puertos USB podrás reproducir música, fotos y videos almacenados en tus dispositivos externos como tablets, smartphones y pendrives. Además, a través de sus 3 entradas HDMI, vas a poder vincular reproductores de audio y video; consolas de juegos y notebooks."
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Cuenta con SAPHI que es un sistema operativo rapido e intuitivo que hace que sea un verdadero placer usar el Smart TV de Philips. Disfruta de una gran calidad de imagen y del acceso con un solo boton a un menú sencillo de íconos. Controla el televisor con facilidad y desplázate rápidamente por las aplicaciones más populare, como Youtube, Netflix, y mucho más. Debido a que posee puerto LAN y conexión vía Wi-Fi vas a poder acceder a internet y navegar. "
+                },
+                {
+                    "title":"Disfrutá HD",
+                    "paragraph":"El Smart TV Philips 50 pulgadas 50PUD6654/77 cuenta con una pantalla de visualización LED de 16:9 y resolución Ultra HD 4K 3840 x 2160 píxeles que brinda una gran calidad de imagen y contraste."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"50'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":18,
+            "article":"tv",
+            "title":"BGH Smart TV 32” HD",
+            "images":[
+                "https://images.fravega.com/s500/415f81694ebdfbb605dd512427828367.jpg",
+                "https://images.fravega.com/s500/513de3a6a8c316cbf5b790edb8fced02.jpg"
+            ],
+            "price":29.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Conectá tus dispositivos",
+                    "paragraph":"Mediante su entrada HDMI podés vincular reproductores de audio y video; consolas de juegos y notebooks. Su gran capacidad de transmisión de datos permite disfrutar de imágenes en alta definición y un sonido de gran fidelidad.También, a través de su puerto USB, podrás reproducir contenido multimedia (música, fotos y videos) almacenado en tus dispositivos externos como tablets, smartphones y pendrives."
+                },
+                {
+                    "title":"Navegá por la web",
+                    "paragraph":"Este Smart TV de BGH viene con Wi-Fi incorporado para que puedas acceder a internet de forma inalámbrica. Disfrutá de tus app preferidas como Netflix y YouTube, entre otras."
+                },
+                {
+                    "title":"Disfrutá HD",
+                    "paragraph":"El smart TV BGH de 32 pulgadas posee una pantalla de visualización LED con una resolución de 1366 x 768 píxeles."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Imagen",
+                    "especifications1":"Tamaño de Pantalla",
+                    "especifications2":"32'"
+                },
+                {
+                    "title":"Características Generales",
+                    "especifications1":"Smart TV",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Conectividad",
+                    "especifications1":"Entradas HDMI",
+                    "especifications2":"Entradas USB"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":19,
+            "article":"split",
+            "title":"BGH Aire Acondicionado Split Frío/Calor 3000F",
+            "images":[
+                "https://images.fravega.com/s500/1b60014f11f63a1f37c3ca884d3b58fb.jpg",
+                "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
+                "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
+            ],
+            "price":67.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor BGH BS35WCCR tiene 3000 frigorías y 3500 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El equipo BGH cuenta con eficiencia energética clase A que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) A su vez, utiliza el gas refrigerante no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El equipo BGH BS35WCCR cuenta con Hiding Display que le permite apagar los indicadores LED del display para un mejor descanso durante la noche. Además posee las funciones de Timer, Sleep, Deshumidificación, Ventilación (solo ventilador) y Turbo entre otras."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"3000 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":20,
+            "article":"split",
+            "title":"Hitachi Aire Acondicionado Split Frío/Calor 2752FC",
+            "images":[
+                "https://images.fravega.com/s500/d9466bfe1b3ad063114aa32989f71f76.jpg",
+                "https://images.fravega.com/s500/0571a1f954b500f851249f23cd218e4a.jpg",
+                "https://images.fravega.com/s500/fcce90116c3a7b8d3364b633794c542e.jpg"
+            ],
+            "price":44.999,
+            "unites":"2",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"EEl Aire Acondicionado Hitachi split frío/calor tiene 2752 frigorías y 3200 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El equipo Hitachi cuenta con eficiencia energética clase A que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) A su vez, utiliza el gas refrigerante no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"Dispone de función nocturna; ajusta de forma automática la temperatura de la habitación logrando mayor confort en el descanso, control de caudal de aire; cuenta con 4 modos de ventilación (baja-media-alta-auto) que permite ajustar el caudal de aire, función turbo y función Autostart; que permite el encendido automático de la unidad luego de un corte de energía."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"2750 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":21,
+            "article":"split",
+            "title":"Electra Aire Acondicionado Split Inverter Frío/Calor 4472F",
+            "images":[
+                "https://images.fravega.com/s500/1b60014f11f63a1f37c3ca884d3b58fb.jpg",
+                "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
+                "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
+            ],
+            "price":84.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor Electra tiene 4472 frigorías y 5200 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El Aire Acondicionado Electra cuenta con eficiencia energética clase A en frío, que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) y C en calor. También, utiliza el gas no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El equipo cuenta con Hiding Display que le permite apagar los indicadores LED del display para un mejor descanso durante la noche. Además posee las funciones de Timer, Sleep, Deshumidificación, Ventilación (solo ventilador) y Turbo entre otras."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"4400  F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":22,
+            "article":"split",
+            "title":"BGH Aire Acondicionado Split Frío/Calor 3000F",
+            "images":[
+                "https://images.fravega.com/s500/7dcb90959cd22364cc664772661d39b6.jpg",
+                "https://images.fravega.com/s500/fa477199b100f3956fcfd810cfa2f7cb.jpg",
+                "https://images.fravega.com/s500/2e98d121d1375f5ce82669bccc9f0ab1.jpg"
+            ],
+            "price":99.999,
+            "unites":"3",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor Electra tiene 5504 frigorías y 6400 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El Aire Acondicionado Electra cuenta con eficiencia energética clase A en frío, que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) y C en calor. También, utiliza el gas no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El equipo cuenta con Hiding Display que le permite apagar los indicadores LED del display para un mejor descanso durante la noche. Además posee las funciones de Timer, Sleep, Deshumidificación, Ventilación (solo ventilador) y Turbo entre otras."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"5500 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":23,
+            "article":"split",
+            "title":"Surrey Aire Acondicionado Split Inverter Frío/Calor 2958F",
+            "images":[
+                "https://images.fravega.com/s500/1b60014f11f63a1f37c3ca884d3b58fb.jpg",
+                "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
+                "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
+            ],
+            "price":75.999,
+            "unites":"3",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split Inverter Frío/Calor Surrey 553AIQ1201F tiene 2958 frigorías y 3440 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El Aire Acondicionado Surrey cuenta con eficiencia energética clase A en refrigeración y B en calefacción."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El 553AIQ1201F dispone de distintas funciones y modos para los diferentes clima a lo largo del año. Cuenta con las funciones deshumidificación, timer y ventilación, entre otras. Además, utiliza la tecnología Inverter."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split Inverter"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"2958 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":24,
+            "article":"split",
+            "title":"Carrier Aire Acondicionado Split Inverter Frio/Calor 2900F",
+            "images":[
+                "https://images.fravega.com/s500/c118bb6d030d2f6d2976eb0a1cd2d170.jpg",
+                "https://images.fravega.com/s500/36036096fa62e7dfa3e85ac249a2e421.jpg",
+                "https://images.fravega.com/s500/5a6776fa4e2fef1280712bed91cbb3e3.jpg"
+            ],
+            "price":78.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor tiene 2900 frigorías y 3500 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"Gracias a la tecnología Inverter vas a poder ahorrar hasta un 35% de energía. El equipo es de clasificación de eficiencia energética Clase A en refrigeración y B en Calefacción."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"Con la función Modo Sleep, regulá la temperatura en forma inteligente para crear un ambiente más confortable durante tus horas de sueño. Además, podrás programar el equipo para encenderlo o apagarlo con la temperatura deseada. Por otro lado, posee función Turbo que permite alcanzar la temperatura deseada rápidamente para un clima confortable."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split Inverter"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"2900  F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":25,
+            "article":"split",
+            "title":"Carrier Aire Acondicionado Split Frío/Calor 3001FC",
+            "images":[
+                "https://images.fravega.com/s500/958b2d91fb4619477bb37501ba357c6c.jpg",
+                "https://images.fravega.com/s500/0c6ccf72ac3a088c091d37a0b315e3cc.jpg",
+                "https://images.fravega.com/s500/0291bc43f0afe7d3623dcbeab6984a2d.jpg"
+            ],
+            "price":51.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor Carrier tiene 3001 frigorías y 3001 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El Aire Acondicionado Carrier cuenta con eficiencia energética clase A en frío, que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) y C en calor. También, utiliza el gas no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"Dispone función Follow Me, que ajusta el funcionamiento según la temperatura que sensa el control remoto (cercano al usuario), a diferencia de otros equipos que sensan la temperatura en la unidad interior. Además, su recubrimiento protector Gold Cover mejora la resistencia a la corrosión."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"3000 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":26,
+            "article":"split",
+            "title":"Aire Acondicionado Split Frio/Calor Sansei 2800F",
+            "images":[
+                "https://images.fravega.com/s500/e3c5874e72104793c3c23c650af27388.jpg",
+                "https://images.fravega.com/s500/b47276d9a028b7ae476a3a1a04fbbad8.jpg",
+                "https://images.fravega.com/s500/4a0eb3e2a3c5bc4528b51a915b7b1f34.jpg"
+            ],
+            "price":67.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor tiene 3000 frigorías y 3500 watts de potencia. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El equipo cuenta con eficiencia energética clase A que permite reducir el consumo de energía hasta un 16 por ciento (vs. un equipo similar de eficiencia energética C.) A su vez, utiliza el gas refrigerante no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El equipo cuenta con Hiding Display que le permite apagar los indicadores LED del display para un mejor descanso durante la noche. Además posee las funciones de Timer, Sleep, Deshumidificación, Ventilación (solo ventilador) y Turbo entre otras."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"2800 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
+        },
+        {
+            "id":27,
+            "article":"split",
+            "title":"Hyundai Aire Acondicionado Split Frío/Calor Inverter",
+            "images":[
+                "https://images.fravega.com/s500/08bbb1de298420cff59cfe5cda222191.jpg",
+                "https://images.fravega.com/s500/98993838ca2166450d31a904f053ce59.jpg",
+                "https://images.fravega.com/s500/975783d3962f8e7aa5b38ad1879b6625.jpg"
+            ],
+            "price":51.999,
+            "unites":"5",
+            "description": [
+                {
+                    "title":"Potencia",
+                    "paragraph":"El split frío/calor Hyundai HY6INV-3200FC tiene 2958 frigorías y 3440 watts de capacidad en frío y 3027 frigorías y 3520 watts de capacidad en calor. Para elegir el equipo adecuado, hay que tener en cuenta los metros cuadrados de la habitación donde va a instalarse. Además, la orientación de la casa/depto; la cantidad de personas que usan la habitación; el número de ventanas y la cantidad aparatos eléctricos que hay."
+                },
+                {
+                    "title":"Consumo energético",
+                    "paragraph":"El Aire Acondicionado Hyundai cuenta con eficiencia energética clase A tanto en modeo frío como en calor. También, utiliza el refrigerante no tóxico y no contaminante R410A, que no contribuye al debilitamiento de la capa de ozono y tiene una mayor capacidad de refrigeración."
+                },
+                {
+                    "title":"Funciones",
+                    "paragraph":"El HY6INV-3200FC dispone de control remoto multifunción; timer programable; modo deshumidificación y distintas funciones operativas. Entre ellas, se destaca la función Sleep, que acondiciona el ambiente durante las horas de sueño, mediante un ajuste gradual y automático de la temperatura, evitando así las temperaturas excesivas."
+                }
+            ],
+            "especifications":[
+                {
+                    "title":"Características generales",
+                    "especifications1":"Tipo de equipo",
+                    "especifications2":"Split"
+                },
+                {
+                    "title":"Potencia",
+                    "especifications1":"Capacidad frigorias",
+                    "especifications2":"2800 F / C"
+                },
+                {
+                    "title":"Consumo",
+                    "especifications1":"Tipo de gas",
+                    "especifications2":"R410A"
+                },
+                {
+                    "title":"Que Incluye?",
+                    "especifications1":"Control Remoto",
+                    "especifications2":"Sí"
+                },
+                {
+                    "title":"Modelo y origen",
+                    "especifications1":"Origen",
+                    "especifications2":"Argentina"
+                }
+            ]
         }
+
         
     ]
 
