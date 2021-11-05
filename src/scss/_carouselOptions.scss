@@ -1,0 +1,63 @@
+/* SECTION OPTIONS */
+
+.section-options {
+    width: 100%;
+    margin-top: 4%;
+    position: relative;
+    overflow: hidden;
+    .section-options-list {
+        display: flex;
+        align-items: flex-start;
+        list-style: none;
+        padding: 0;
+        position: relative;
+        transition: all 1s ease;
+        .section-options-list-item{
+            .section-options-list__card{
+                img{
+                    width: 100%;
+                    height: auto;
+                    border-radius: 50%;
+                    background-color: white;
+                    transition: all .2s ease-in-out;
+                    cursor: pointer;
+                }
+                img:hover {
+                    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.28);
+                    ;
+                }
+                figcaption {
+                    text-align: center;
+                    font-weight: 500;
+                    color: #4a4a4a;
+                }
+            }
+        }
+    }
+    .button-optionleft {
+        position: absolute;
+        top: 50%;
+        left: 2rem;
+        transform: translateY(-50%);
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    .button-optionright {
+        position: absolute;
+        top: 50%;
+        right: 2rem;
+        transform: translateY(-50%);
+        font-size: 2rem;
+        cursor: pointer;
+
+    }
+}
+        
+
+
+
+@media screen and (min-width: 1050px) {
+
+    
+}

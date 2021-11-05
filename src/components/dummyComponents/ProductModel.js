@@ -27,7 +27,7 @@ const ProductModel = ({ item }) => {
                 <h2>{item.title}</h2>
                 <ul className="product-view-specifications__ul">
                     <h3>Especificaciones técnicas</h3>
-                    {item.especifications.map((esp, index) =>{
+                    {item.specifications.map((esp, index) =>{
                         return(
                             <li key={index} className="product-view-specifications__li">
                                 <h3>{esp.title}</h3>

@@ -1,6 +1,6 @@
 {
-    "productos":[
-        {
+    "productos":{
+        "1":{
             "id":1,
             "article":"cellphone",
             "title":"Samsung Galaxy A51 128 GB Negro",
@@ -14,6 +14,8 @@
             
             ],
             "price":47999,
+            "highlighted":12,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -84,7 +86,7 @@
                 }
             ]
         },
-        {
+        "2":{
             "id":2,
             "article":"cellphone",
             "title":"Samsung Galaxy A32 128 GB Negro",
@@ -97,7 +99,9 @@
                 "https://images.fravega.com/s500/6f3e7794e939d70afe890c895c75c991.jpg"
             
             ],
-            "price":47.999,
+            "price":47999,
+            "highlighted":10,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -168,7 +172,7 @@
                 }
             ]
         },
-        {
+        "3":{
             "id":3,
             "article":"cellphone",
             "title":"LG K42 64 GB Gris",
@@ -181,7 +185,9 @@
                 "https://images.fravega.com/s500/3b56d3b30b959e4ce67e076596a6bf76.jpg"
             
             ],
-            "price":24.999,
+            "price":24999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -252,7 +258,7 @@
                 }
             ]
         },
-        {
+        "4":{
             "id":4,
             "article":"cellphone",
             "title":"Samsung A01 Core 16 GB Negro",
@@ -265,8 +271,10 @@
                 "https://images.fravega.com/s500/73a9936f7a6bf5b35ac3170c2307f48b.jpg"
             
             ],
-            "price":15.499,
+            "price":15499,
             "unites":"4",
+            "highlighted":13,
+            "saleoff":0,
             "description": [
                 {
                     "title":"Guardá lo que quieras",
@@ -336,7 +344,7 @@
                 }
             ]
         },
-        {
+        "5":{
             "id":5,
             "article":"cellphone",
             "title":"Samsung Galaxy A71 128 GB Negro",
@@ -347,7 +355,9 @@
                 "https://images.fravega.com/s500/947613cb5ab8a473a725c95721d7de5a.jpg"
             
             ],
-            "price":63.999,
+            "price":63999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -418,7 +428,7 @@
                 }
             ]
         },
-        {
+        "6":{
             "id":6,
             "article":"cellphone",
             "title":"LG K22 32 GB Azul",
@@ -431,7 +441,9 @@
                 "https://images.fravega.com/s500/d1a608d03019287cbbe84e5369cb32b7.jpg"
             
             ],
-            "price":17.999,
+            "price":17999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -502,7 +514,7 @@
                 }
             ]
         },
-        {
+        "7":{
             "id":7,
             "article":"cellphone",
             "title":"Samsung Galaxy S20FE 128 GB Azul",
@@ -515,7 +527,9 @@
                 "https://images.fravega.com/s500/4f995b611bca200c0c6487b6e3939841.jpg"
             
             ],
-            "price":47.999,
+            "price":47999,
+            "highlighted":0,
+            "saleoff": 16,
             "unites":"4",
             "description": [
                 {
@@ -586,7 +600,7 @@
                 }
             ]
         },
-        {
+        "8":{
             "id":8,
             "article":"cellphone",
             "title":"Samsung Galaxy S20FE 128 GB Rojo",
@@ -597,7 +611,9 @@
                 "https://images.fravega.com/s500/f68e3ec9bfa6442ef9015144a77411e5.jpg"
             
             ],
-            "price":77.999,
+            "price":77999,
+            "highlighted":0,
+            "saleoff": 10,
             "unites":"4",
             "description": [
                 {
@@ -668,7 +684,7 @@
                 }
             ]
         },
-        {
+        "9":{
             "id":9,
             "article":"cellphone",
             "title":"Samsung Galaxy A72 128 GB Negro",
@@ -681,7 +697,9 @@
                 "https://images.fravega.com/s500/db35f7271b9d32fd6f62b172aa802376.jpg"
             
             ],
-            "price":72.999,
+            "price":72999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"4",
             "description": [
                 {
@@ -752,7 +770,7 @@
                 }
             ]
         },
-        {
+        "10":{
             "id":10,
             "article":"tv",
             "title":"TCL Smart TV LED 75” UHD 4K Android",
@@ -763,7 +781,9 @@
                 "https://images.fravega.com/s500/2b4c2264405829a04094fac3ea77d8c7.jpg"
             
             ],
-            "price":216.999,
+            "price":216999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"7",
             "description": [
                 {
@@ -811,7 +831,7 @@
                 }
             ]
         },
-        {
+        "11":{
             "id":11,
             "article":"tv",
             "title":"Philips Smart TV 4k UHD 70” PUG6774/77",
@@ -820,7 +840,9 @@
                 "https://images.fravega.com/s500/a7ed727152c2d1d3d2844881d84857ff.jpg"
             
             ],
-            "price":149.999,
+            "price":149999,
+           "highlighted":0,
+            "saleoff": 21,
             "unites":"3",
             "description": [
                 {
@@ -868,7 +890,7 @@
                 }
             ]
         },
-        {
+        "12":{
             "id":12,
             "article":"tv",
             "title":"Noblex Smart TV 55' 4K DK55X6500",
@@ -878,7 +900,9 @@
                 "https://images.fravega.com/s500/712eecfcbbec25875fddcd096923f6d6.jpg",
                 "https://images.fravega.com/s500/cfcee153cf876d08d5e370ad63bf2437.jpg"
             ],
-            "price":74.999,
+            "price":74999,
+            "highlighted":12,
+            "saleoff":0,
             "unites":"8",
             "description": [
                 {
@@ -922,7 +946,7 @@
                 }
             ]
         },
-        {
+        "13":{
             "id":13,
             "article":"tv",
             "title":"TCL Smart TV 55' QLED 4K Ultra HD",
@@ -935,7 +959,9 @@
                 "https://images.fravega.com/s500/2b4c2264405829a04094fac3ea77d8c7.jpg"
             
             ],
-            "price":99.999,
+            "price":99999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"5",
             "description": [
                 {
@@ -979,7 +1005,7 @@
                 }
             ]
         },
-        {
+        "14":{
             "id":14,
             "article":"tv",
             "title":"Smart TV 42' Full HD TCL L42S6500",
@@ -989,7 +1015,9 @@
                 "https://images.fravega.com/s500/187acfac828d131ea627d29141d8308a.jpg"
             
             ],
-            "price":47.999,
+            "price":47999,
+            "highlighted":0,
+            "saleoff": 18,
             "unites":"5",
             "description": [
                 {
@@ -1033,7 +1061,7 @@
                 }
             ]
         },
-        {
+        "15":{
             "id":15,
             "article":"tv",
             "title":"Samsung Smart TV 32' HD",
@@ -1043,7 +1071,9 @@
                 "https://images.fravega.com/s500/7e6b9c224a52dbe3249b5ba4ed0661b3.jpg"
             
             ],
-            "price":36.499,
+            "price":36499,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"5",
             "description": [
                 {
@@ -1087,7 +1117,7 @@
                 }
             ]
         },
-        {
+        "16":{
             "id":16,
             "article":"tv",
             "title":"Sansei Smart TV 50' 4K",
@@ -1096,7 +1126,9 @@
                 "https://images.fravega.com/s500/eb1829d97a24a59fab30f1ad5d368f6f.jpg"
             
             ],
-            "price":53.999,
+            "price":53999,
+            "highlighted":13,
+            "saleoff":0,
             "unites":"9",
             "description": [
                 {
@@ -1140,7 +1172,7 @@
                 }
             ]
         },
-        {
+        "17":{
             "id":17,
             "article":"tv",
             "title":"Philips Smart TV 50' UHD 4K",
@@ -1149,7 +1181,9 @@
                 "https://images.fravega.com/s500/1a34cc5bcc2560ef807b5c69a1fcaea8.jpg"
             
             ],
-            "price":75.999,
+            "price":75999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"2",
             "description": [
                 {
@@ -1193,7 +1227,7 @@
                 }
             ]
         },
-        {
+        "18":{
             "id":18,
             "article":"tv",
             "title":"BGH Smart TV 32” HD",
@@ -1201,7 +1235,9 @@
                 "https://images.fravega.com/s500/415f81694ebdfbb605dd512427828367.jpg",
                 "https://images.fravega.com/s500/513de3a6a8c316cbf5b790edb8fced02.jpg"
             ],
-            "price":29.999,
+            "price":29999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"5",
             "description": [
                 {
@@ -1245,7 +1281,7 @@
                 }
             ]
         },
-        {
+        "19":{
             "id":19,
             "article":"split",
             "title":"BGH Aire Acondicionado Split Frío/Calor 3000F",
@@ -1254,7 +1290,9 @@
                 "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
                 "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
             ],
-            "price":67.999,
+            "price":67999,
+            "highlighted":0,
+            "saleoff":0,
             "unites":"5",
             "description": [
                 {
@@ -1298,7 +1336,7 @@
                 }
             ]
         },
-        {
+        "20":{
             "id":20,
             "article":"split",
             "title":"Hitachi Aire Acondicionado Split Frío/Calor 2752FC",
@@ -1307,7 +1345,9 @@
                 "https://images.fravega.com/s500/0571a1f954b500f851249f23cd218e4a.jpg",
                 "https://images.fravega.com/s500/fcce90116c3a7b8d3364b633794c542e.jpg"
             ],
-            "price":44.999,
+            "price":44999,
+            "highlighted":11,
+            "saleoff":0,
             "unites":"2",
             "description": [
                 {
@@ -1351,7 +1391,7 @@
                 }
             ]
         },
-        {
+        "21":{
             "id":21,
             "article":"split",
             "title":"Electra Aire Acondicionado Split Inverter Frío/Calor 4472F",
@@ -1360,7 +1400,8 @@
                 "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
                 "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
             ],
-            "price":84.999,
+            "price":84999,
+            "saleoff": 19,
             "unites":"5",
             "description": [
                 {
@@ -1404,7 +1445,7 @@
                 }
             ]
         },
-        {
+        "22":{
             "id":22,
             "article":"split",
             "title":"BGH Aire Acondicionado Split Frío/Calor 3000F",
@@ -1413,7 +1454,7 @@
                 "https://images.fravega.com/s500/fa477199b100f3956fcfd810cfa2f7cb.jpg",
                 "https://images.fravega.com/s500/2e98d121d1375f5ce82669bccc9f0ab1.jpg"
             ],
-            "price":99.999,
+            "price":99999,
             "unites":"3",
             "description": [
                 {
@@ -1457,7 +1498,7 @@
                 }
             ]
         },
-        {
+        "23":{
             "id":23,
             "article":"split",
             "title":"Surrey Aire Acondicionado Split Inverter Frío/Calor 2958F",
@@ -1466,7 +1507,8 @@
                 "https://images.fravega.com/s500/53bc464a74d67688828b47a046f76e5b.jpg",
                 "https://images.fravega.com/s500/e6090c22a9ba0bc765734a95d1795780.jpg"
             ],
-            "price":75.999,
+            "price":75999,
+            "saleoff": 15,
             "unites":"3",
             "description": [
                 {
@@ -1510,7 +1552,7 @@
                 }
             ]
         },
-        {
+        "24":{
             "id":24,
             "article":"split",
             "title":"Carrier Aire Acondicionado Split Inverter Frio/Calor 2900F",
@@ -1519,7 +1561,7 @@
                 "https://images.fravega.com/s500/36036096fa62e7dfa3e85ac249a2e421.jpg",
                 "https://images.fravega.com/s500/5a6776fa4e2fef1280712bed91cbb3e3.jpg"
             ],
-            "price":78.999,
+            "price":78999,
             "unites":"5",
             "description": [
                 {
@@ -1563,7 +1605,7 @@
                 }
             ]
         },
-        {
+        "25":{
             "id":25,
             "article":"split",
             "title":"Carrier Aire Acondicionado Split Frío/Calor 3001FC",
@@ -1572,7 +1614,7 @@
                 "https://images.fravega.com/s500/0c6ccf72ac3a088c091d37a0b315e3cc.jpg",
                 "https://images.fravega.com/s500/0291bc43f0afe7d3623dcbeab6984a2d.jpg"
             ],
-            "price":51.999,
+            "price":51999,
             "unites":"5",
             "description": [
                 {
@@ -1616,7 +1658,7 @@
                 }
             ]
         },
-        {
+        "26":{
             "id":26,
             "article":"split",
             "title":"Aire Acondicionado Split Frio/Calor Sansei 2800F",
@@ -1625,7 +1667,7 @@
                 "https://images.fravega.com/s500/b47276d9a028b7ae476a3a1a04fbbad8.jpg",
                 "https://images.fravega.com/s500/4a0eb3e2a3c5bc4528b51a915b7b1f34.jpg"
             ],
-            "price":67.999,
+            "price":67999,
             "unites":"5",
             "description": [
                 {
@@ -1669,7 +1711,7 @@
                 }
             ]
         },
-        {
+        "27":{
             "id":27,
             "article":"split",
             "title":"Hyundai Aire Acondicionado Split Frío/Calor Inverter",
@@ -1678,7 +1720,7 @@
                 "https://images.fravega.com/s500/98993838ca2166450d31a904f053ce59.jpg",
                 "https://images.fravega.com/s500/975783d3962f8e7aa5b38ad1879b6625.jpg"
             ],
-            "price":51.999,
+            "price":51999,
             "unites":"5",
             "description": [
                 {
@@ -1722,7 +1764,7 @@
                 }
             ]
         },
-        {
+        "28":{
             "id":28,
             "article":"notebook",
             "title":"Notebook HP 15-gw0004la AMD Athlon Silver 3050U 8GB 1TB HDD 15.6'",
@@ -1733,7 +1775,7 @@
                 "https://images.fravega.com/s500/ac0ee0a07336543d1551556111aba7dd.jpg",
                 "https://images.fravega.com/s500/113b9814a925f9efc529389b25b029d6.jpg"
             ],
-            "price":64.999,
+            "price":64999,
             "unites":"5",
             "description": [
                 {
@@ -1787,7 +1829,7 @@
                 }
             ]
         },
-        {
+        "29":{
             "id":29,
             "article":"notebook",
             "title":"Notebook HP 14' Core i3 4GB 256GB 14-CF2077LA",
@@ -1798,7 +1840,8 @@
                 "https://images.fravega.com/s500/93b22265463bc4ffb0aa568a4a45474d.jpg",
                 "https://images.fravega.com/s500/d1b490050abfa85ed0fc2d9f82313b8a.jpg"
             ],
-            "price":74.999,
+            "price":74999,
+            "highlighted":10,
             "unites":"5",
             "description": [
                 {
@@ -1852,7 +1895,7 @@
                 }
             ]
         },
-        {
+        "30":{
             "id":30,
             "article":"notebook",
             "title":"Notebook Lenovo 15,6' Core i3 8GB 256GB IP-5 82FG00JF",
@@ -1862,7 +1905,7 @@
                 "https://images.fravega.com/s500/4f1f021e091aeeb2ddd8da1e7eef9e5b.jpg",
                 "https://images.fravega.com/s500/0fb4332b0fe5018434c6ddd2b2949b0a.jpg"
             ],
-            "price":89.999,
+            "price":89999,
             "unites":"5",
             "description": [
                 {
@@ -1916,7 +1959,7 @@
                 }
             ]
         },
-        {
+        "31":{
             "id":31,
             "article":"notebook",
             "title":"Cloudbook Lenovo IdeaPad 14' AMD 3020e 4GB 64GB 14ADA05 82GW0051AR",
@@ -1925,7 +1968,7 @@
                 "https://images.fravega.com/s500/f8b60e87ed3e2a715d54c62cd859e2ca.jpg",
                 "https://images.fravega.com/s500/0ecf28ded3f93d8d4fb54faacd35184f.jpg"
             ],
-            "price":54.999,
+            "price":54999,
             "unites":"5",
             "description": [
                 {
@@ -1979,14 +2022,14 @@
                 }
             ]
         },
-        {
+        "32":{
             "id":32,
             "article":"notebook",
             "title":"Notebook Acer 15,6' Core i5 8GB 256GB A515-56-597F",
             "images":[
                 "https://images.fravega.com/s500/69981791cbe4cf4e6b44b2caba3c6607.jpg"
             ],
-            "price":109.999,
+            "price":109999,
             "unites":"5",
             "description": [
                 {
@@ -2040,7 +2083,7 @@
                 }
             ]
         },
-        {
+        "33":{
             "id":33,
             "article":"notebook",
             "title":"Notebook Asus 15,6' Core i3-7100U 4GB 256GB X543UA-DM3478T",
@@ -2050,7 +2093,7 @@
                 "https://images.fravega.com/s500/7456075bfc76d2ef18f606042640e2f4.jpg",
                 "https://images.fravega.com/s500/3b90826ea0d1cc8666dc45db1cb8797e.jpg"
             ],
-            "price":79.999,
+            "price":79999,
             "unites":"5",
             "description": [
                 {
@@ -2104,7 +2147,7 @@
                 }
             ]
         },
-        {
+        "34":{
             "id":34,
             "article":"notebook",
             "title":"Notebook Lenovo 14 FHD Core i5 512 SSD + 8gb / Intel W10",
@@ -2112,7 +2155,8 @@
                 "https://images.fravega.com/s500/be81550ee0ef296c36311d8cf1c4cfbd.jpg",
                 "https://images.fravega.com/s500/ea73b242c5e3fea4209cfc86eb198f70.jpg"
             ],
-            "price":139.599,
+            "price":139599,
+            "saleoff": 25,
             "unites":"5",
             "description": [
                 {
@@ -2166,7 +2210,7 @@
                 }
             ]
         },
-        {
+        "35":{
             "id":35,
             "article":"notebook",
             "title":"Notebook HP 15-gw0015la AMD Ryzen 5 8GB 256GB SSD 15.6'",
@@ -2176,7 +2220,8 @@
                 "https://images.fravega.com/s500/70be3f20e9de64db9f47327d32e459f6.jpg",
                 "https://images.fravega.com/s500/1e53061eeec974e520770f9ad7b6275f.jpg"
             ],
-            "price":89.999,
+            "price":89999,
+            "highlighted":13,
             "unites":"5",
             "description": [
                 {
@@ -2230,7 +2275,7 @@
                 }
             ]
         },
-        {
+        "36":{
             "id":36,
             "article":"notebook",
             "title":"Notebook Lenovo 14' AMD Ryzen 8GB 512GB IP3-81W300AW",
@@ -2240,7 +2285,8 @@
                 "https://images.fravega.com/s500/690e7371df4c7027d3ff63b24f249df8.jpg",
                 "https://images.fravega.com/s500/7e2943b30f5a6d1af618412a7573f207.jpg"
             ],
-            "price":89.999,
+            "price":89999,
+            "saleoff": 16,
             "unites":"5",
             "description": [
                 {
@@ -2294,7 +2340,7 @@
                 }
             ]
         },
-        {
+        "37":{
             "id":37,
             "article":"smartwatch",
             "title":"Smartwatch W26 + Plus Android ios Reloj Inteligente Negro",
@@ -2304,7 +2350,7 @@
                 "https://images.fravega.com/s500/c8606d0af9228fe927ec400ca6567a56.jpg",
                 "https://images.fravega.com/s500/6c20ccef0558c5120fbcdb2f54a1969a.jpg"
             ],
-            "price":6.440,
+            "price":6440,
             "unites":"5",
             "description": [
                 {
@@ -2358,7 +2404,7 @@
                 }
             ]
         },
-        {
+        "38":{
             "id":38,
             "article":"smartwatch",
             "title":"Smartwatch Nictom Kw37 Rosa",
@@ -2368,7 +2414,7 @@
                 "https://images.fravega.com/s500/0a0faec36a8e0c2fa40540124caf1e86.jpg",
                 "https://images.fravega.com/s500/4dff1411475f55c7b227480c2908b025.jpg"
             ],
-            "price":3.699,
+            "price":3699,
             "unites":"5",
             "description": [
                 {
@@ -2422,7 +2468,7 @@
                 }
             ]
         },
-        {
+        "39":{
             "id":39,
             "article":"smartwatch",
             "title":"Smartwatch Nictom KW37",
@@ -2432,7 +2478,8 @@
                 "https://images.fravega.com/s500/0a0faec36a8e0c2fa40540124caf1e86.jpg",
                 "https://images.fravega.com/s500/4dff1411475f55c7b227480c2908b025.jpg"
             ],
-            "price":3.699,
+            "price":3699,
+            "highlighted":8,
             "unites":"5",
             "description": [
                 {
@@ -2486,7 +2533,7 @@
                 }
             ]
         },
-        {
+        "40":{
             "id":40,
             "article":"smartwatch",
             "title":"Smartwatch W26 + Plus Android ios Reloj Inteligente Rosa",
@@ -2496,7 +2543,7 @@
                 "https://images.fravega.com/s500/ea0f547112ea697531e41cd7dc1665c3.jpg",
                 "https://images.fravega.com/s500/2b2e798d3ae736307fe46e13af52c31a.jpg"
             ],
-            "price":3.699,
+            "price":3699,
             "unites":"5",
             "description": [
                 {
@@ -2550,7 +2597,7 @@
                 }
             ]
         },
-        {
+        "41":{
             "id":41,
             "article":"smartwatch",
             "title":"Smartwatch Amazfit T-Rex Negro",
@@ -2558,7 +2605,8 @@
                 "https://images.fravega.com/s500/9bcfb9d23d4980c24caedc4b5ef5edcd.jpg",
                 "https://images.fravega.com/s500/fa6634602ec096fb31307bf3aac95fa1.jpg"
             ],
-            "price":14.999,
+            "price":14999,
+            "saleoff": 10,
             "unites":"5",
             "description": [
                 {
@@ -2612,7 +2660,7 @@
                 }
             ]
         },
-        {
+        "42":{
             "id":42,
             "article":"smartwatch",
             "title":"Smartwatch W26 + Plus Android ios Reloj Inteligente Blanco",
@@ -2622,7 +2670,7 @@
                 "https://images.fravega.com/s500/da224d478964fd4fe7c98a7a0fa06f02.jpg",
                 "https://images.fravega.com/s500/de893cf792ef777ee3c1a29d98b3e4c1.jpg"
             ],
-            "price":6.440,
+            "price":6440,
             "unites":"5",
             "description": [
                 {
@@ -2676,7 +2724,7 @@
                 }
             ]
         },
-        {
+        "43":{
             "id":43,
             "article":"smartwatch",
             "title":"Smartwatch Samsung Galaxy 3 SN-R840 Black",
@@ -2686,7 +2734,8 @@
                 "https://images.fravega.com/s500/134853fea9360f8ee0ab5d4b3d6129ac.jpg",
                 "https://images.fravega.com/s500/afe08afc1541ad664ff2b5635320b291.jpg"
             ],
-            "price":54.999,
+            "price":54999,
+            "highlighted":9,
             "unites":"5",
             "description": [
                 {
@@ -2740,14 +2789,14 @@
                 }
             ]
         },
-        {
+        "44":{
             "id":44,
             "article":"smartwatch",
             "title":"Smartwatch Amazfit Bip U",
             "images":[
                 "https://images.fravega.com/s500/859c4ed411dc9ed87c25edb2b5bbe8d5.jpg"
             ],
-            "price":7.999,
+            "price":7999,
             "unites":"5",
             "description": [
                 {
@@ -2801,7 +2850,7 @@
                 }
             ]
         },
-        {
+        "45":{
             "id":45,
             "article":"smartwatch",
             "title":"Smartwatch X-View Zen Cronos V12 Verde",
@@ -2811,7 +2860,8 @@
                 "https://images.fravega.com/s500/2137d221c7722af6921f602fc33eaa1e.jpg",
                 "https://images.fravega.com/s500/dc6275b9d8153ef1d4a8bd2dac6225f2.jpg"
             ],
-            "price":4.949,
+            "price":4949,
+            "highlighted":7,
             "unites":"5",
             "description": [
                 {
@@ -2865,7 +2915,7 @@
                 }
             ]
         },
-        {
+        "46":{
             "id":46,
             "article":"fridge",
             "title":"Heladera Cíclica Patrick 277Lt",
@@ -2876,7 +2926,8 @@
                 "https://images.fravega.com/s500/878ddf3b0e648464c9291133569f88ed.jpg",
                 "https://images.fravega.com/s500/5fee61eaa6de7e05010ba6254c49a41b.jpg"
             ],
-            "price":51.999,
+            "price":51999,
+            "saleoff": 14,
             "unites":"5",
             "description": [
                 {
@@ -2930,7 +2981,7 @@
                 }
             ]
         },
-        {
+        "47":{
             "id":47,
             "article":"fridge",
             "title":"Heladera Cíclica Gafa Blanca 286Lts",
@@ -2940,7 +2991,7 @@
                 "https://images.fravega.com/s500/b30c2bd6fd9a97d462b3d520f9a7dbde.jpg",
                 "https://images.fravega.com/s500/82c826fea4c3034e9e28d13def569a6f.jpg"
             ],
-            "price":52.199,
+            "price":52199,
             "unites":"5",
             "description": [
                 {
@@ -2994,7 +3045,7 @@
                 }
             ]
         },
-        {
+        "48":{
             "id":48,
             "article":"fridge",
             "title":"Heladera Cíclica Patrick 394Lt",
@@ -3005,7 +3056,7 @@
                 "https://images.fravega.com/s500/10bb90b4ca3e935ec1d3f467f1ac527b.jpg",
                 "https://images.fravega.com/s500/48c0a0ba5f0b74769e365d37041025bf.jpg"
             ],
-            "price":76.999,
+            "price":76999,
             "unites":"5",
             "description": [
                 {
@@ -3059,7 +3110,7 @@
                 }
             ]
         },
-        {
+        "49":{
             "id":49,
             "article":"fridge",
             "title":"Heladera Cíclica Patrick 394 Lt",
@@ -3070,7 +3121,8 @@
                 "https://images.fravega.com/s500/4b8dd4f7c836b7a855abd3915703681b.jpg",
                 "https://images.fravega.com/s500/ae3120de41f9890b44ee627447a775ce.jpg"
             ],
-            "price":72.999,
+            "price":72999,
+            "highlighted":10,
             "unites":"5",
             "description": [
                 {
@@ -3124,7 +3176,7 @@
                 }
             ]
         },
-        {
+        "50":{
             "id":50,
             "article":"fridge",
             "title":"Heladera Cíclica Patrick 364Lt",
@@ -3135,7 +3187,7 @@
                 "https://images.fravega.com/s500/878ddf3b0e648464c9291133569f88ed.jpg",
                 "https://images.fravega.com/s500/5fee61eaa6de7e05010ba6254c49a41b.jpg"
             ],
-            "price":64.999,
+            "price":64999,
             "unites":"5",
             "description": [
                 {
@@ -3193,7 +3245,7 @@
                 }
             ]
         },
-        {
+        "51":{
             "id":51,
             "article":"fridge",
             "title":"Heladera No Frost Inverter Whirlpool 480Lt",
@@ -3203,7 +3255,8 @@
                 "https://images.fravega.com/s500/b41893b046ff5796bf55268c248d33ef.jpg",
                 "https://images.fravega.com/s500/ef853d2ffe2e4646c5115a4d4fa968d3.jpg"
             ],
-            "price":192.899,
+            "price":192899,
+            "highlighted":14,
             "unites":"5",
             "description": [
                 {
@@ -3261,7 +3314,7 @@
                 }
             ]
         },
-        {
+        "52":{
             "id":52,
             "article":"fridge",
             "title":"Heladera No Frost Inverter Samsung 396Lt",
@@ -3271,7 +3324,8 @@
                 "https://images.fravega.com/s500/9626c80129bb61d30fa89a8c209a45f1.jpg",
                 "https://images.fravega.com/s500/3fe246fb2f74e9ab43177a400c402b62.jpg"
             ],
-            "price":145.999,
+            "price":145999,
+            "highlighted":11,
             "unites":"5",
             "description": [
                 {
@@ -3325,7 +3379,7 @@
                 }
             ]
         },
-        {
+        "53":{
             "id":53,
             "article":"fridge",
             "title":"Heladera No Frost Electrolux 303 Litros",
@@ -3334,7 +3388,7 @@
                 "https://images.fravega.com/s500/fbce41f8f67e605c17de1d86692ae850.jpg",
                 "https://images.fravega.com/s500/d7dfa624e60d9e1efbf921f6594a759e.jpg"
             ],
-            "price":79.999,
+            "price":79999,
             "unites":"5",
             "description": [
                 {
@@ -3388,7 +3442,7 @@
                 }
             ]
         },
-        {
+        "54":{
             "id":54,
             "article":"fridge",
             "title":"Heladera No Frost Inverter Samsung 320 Lt",
@@ -3398,7 +3452,7 @@
                 "https://images.fravega.com/s500/332d716c188b05bdb15e79dc2df02549.jpg",
                 "https://images.fravega.com/s500/765edeff393ac9682bc93ab9a5753e6f.jpg"
             ],
-            "price":97.999,
+            "price":97999,
             "unites":"5",
             "description": [
                 {
@@ -3453,7 +3507,5 @@
             ]
         }
         
-    ]
-
-   
+    }
 }

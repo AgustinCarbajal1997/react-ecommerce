@@ -1,44 +1,32 @@
-import React from "react"
-import { useSelector } from "react-redux"
-import {  Link, useRouteMatch } from "react-router-dom";
+import React from "react";
+import { Link } from "react-router-dom";
+import ComparingProductsButton from "./comparison/ComparingProductsButton";
 
+const ListingProducts = ({ products }) => {
+  return (
+    <section className="products-list">
+      {products.map((item) => {
+        return (
+          <div key={item.id} className="products-list-item">
+            <Link
+              to={`/${item.article}/${item.id}-${item.title
+                .split(" ")
+                .join("-")}`}
+            >
+              <img
+                className="products-list-item__image"
+                src={item.images[0]}
+                alt={item.title}
+              />
+              <h4 className="products-list-item__title">{item.title}</h4>
+              <h5 className="products-list-item__price">${item.price}</h5>
+            </Link>
+            <ComparingProductsButton item={item}/>
+          </div>
+        );
+      })}
+    </section>
+  );
+};
 
-
-
-const ListingProducts = ({ article }) => {
-    const productsList = useSelector(state => state.products.products);
-    
-    const filteredList = productsList.filter(item => item.article === article);
-    
-
-    let { url } = useRouteMatch();
-    
-    return (
-        <section className="products-list">
-                
-            
-                
-                {filteredList.map(item =>{
-                    return(
-                        
-                        
-                            <div key={item.id} className="products-list-item">
-                                <Link to={`${url}/${item.id}`}>
-                                    <img className="products-list-item__image" src={item.images[0]} alt={item.title} />
-                                    <h4 className="products-list-item__title">{item.title}</h4>
-                                    <h5 className="products-list-item__price">${item.price}</h5>
-                                </Link>
-                                    
-
-                            </div>
-                    )
-                })}
-                
-                    
-                
-            </section>
-            
-    )
-}
-
-export default ListingProducts
+export default ListingProducts;

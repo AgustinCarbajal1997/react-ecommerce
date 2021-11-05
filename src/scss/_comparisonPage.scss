@@ -1,0 +1,82 @@
+
+.comparison-container {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 24% 19% 19% 19% 19%;
+    background-color: white;
+
+    .comparison-products {
+        display: grid;
+        border-left: #DADADA 1px solid;
+        margin: 20px 0px;
+        
+        .comparison-products-data {
+            display: grid;
+            margin-bottom: 50px;
+            grid-template-rows: 3fr repeat(3, 1fr);
+            img {
+                width: 70%;
+                height: auto;
+                margin: auto;
+            }
+            h3{
+                padding-left: 30px;
+                padding-right: 30px;
+                font-size: 1.4rem;
+            }
+            h4 {
+                text-align: center;
+                font-weight: 400;
+                cursor: pointer;
+                color: #006AFD;
+                font-size: .8rem;
+                padding: 0px 20px;
+            }
+
+            h5 {
+                font-size: 1rem;
+                text-align: center;
+            }
+
+            button {
+                width: 60%;
+                margin: auto;
+                background-color: #654bb9;
+                color: white;
+                border: none;
+                font-weight: 700;
+                font-size: .7rem;
+                padding: 8px 20px;
+                cursor: pointer;
+            }
+        }
+        .comparison-products-fields{
+            display: flex;
+            align-items: center;
+            
+            h5{
+                font-size: 1rem;
+                padding-left: 30px;
+                margin: 0;
+            }
+            h6{
+                width: 100%;
+                font-weight: 400;
+                font-size: .8rem;
+                text-align: center;
+                padding: 0px 20px;
+                margin: 0;
+                
+            }
+        }
+        .comparison-products-fields:nth-child(even){
+            background-color: #f9f9f9;
+        }
+        
+    }
+    .comparison-products:nth-child(1){
+        border: none;
+    }
+    
+}

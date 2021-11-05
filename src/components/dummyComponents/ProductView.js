@@ -1,36 +1,16 @@
-import { useSelector } from "react-redux"
+import useFetch from "../../customHooks/useFetch";
 import { useParams } from "react-router";
+import LoadingBars from "../Loading";
 import ProductModel from "./ProductModel";
 const ProductView = () => {
-    const products = useSelector(state => state.products.products);
-    const { id } = useParams();
-    const filteredProduct = products.find(item => parseInt(item.id) === parseInt(id));
-    
-    
-    return (
-        <section className="product-view">
-            {filteredProduct
-            ? <ProductModel item={filteredProduct}/>
-            : <h3>No se encontro el producto</h3>}
+  const { id } = useParams();
+  const { data, loading } = useFetch(`http://localhost:3000/searchById/${id.split("-")[0]}`);
+  return (
+    <section className="product-view">
+      {loading && <LoadingBars />}
+      {data && <ProductModel item={data} />}
+    </section>
+  );
+};
 
-        </section>
-    )
-}
-
-export default ProductView
-
-
-
-
-
-// const Product = ({ item }) => {
-//     return (
-//         <div>
-//             <h3>{item.title}</h3>
-//             <h4>{item.price}</h4>
-//         </div>
-//     )
-// }
-
-
-
+export default ProductView;
