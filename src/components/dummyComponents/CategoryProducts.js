@@ -6,7 +6,7 @@ import FilterProductsForm from "./FilterProductsForm";
 import { useEffect } from "react";
 const CategoryProducts = () => {
   const { category } = useParams();
-  const url = `http://localhost:3000/category/${category}`;
+  const url = `http://localhost:8080/api/products/getByCategory/${category}`;
   const { search } = useLocation();
   const { loading, data, filteredData, filterHandler } = useFetchFilters(url);
 

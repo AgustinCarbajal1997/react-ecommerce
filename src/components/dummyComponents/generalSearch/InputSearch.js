@@ -25,7 +25,7 @@ const GeneralSearch = () => {
     const queryArray = createQuery(value);
     try {
       const response = await fetch(
-        `http://localhost:3000/generalSearch/${queryArray}&limit=10`
+        `http://localhost:8080/api/products/generalSearch/${queryArray}&limit=10`
       );
       const data = await response.json();
       setSuggestions(data);

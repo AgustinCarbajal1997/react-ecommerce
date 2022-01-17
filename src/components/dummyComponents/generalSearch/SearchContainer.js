@@ -5,7 +5,7 @@ import Loading from "../../Loading";
 const SearchContainer = () => {
   const location = useLocation();
   const { data, loading } = useFetch(
-    `http://localhost:3000/generalSearch/${location.search}`
+    `http://localhost:8080/api/products/generalSearch/${location.search}`
   );
   return (
     <div>

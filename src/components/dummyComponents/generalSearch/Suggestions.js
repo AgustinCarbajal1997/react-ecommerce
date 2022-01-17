@@ -14,6 +14,7 @@ export const Suggestions = ({ suggestions, setSuggestions, setQuery }) => {
               .split(" ")
               .join("-")}`}
               onClick={onClickLinkHandler}
+              key={index}
           >
             <li key={index}>{item.title.slice(0, 50)}</li>
           </Link>
