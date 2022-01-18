@@ -12,6 +12,7 @@ const CategoryProducts = () => {
 
   useEffect(() => {
     if (!search.length || !data) return;
+    console.log(search)
     filterHandler(search);
   }, [search, filterHandler, data]);
 

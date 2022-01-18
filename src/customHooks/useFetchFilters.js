@@ -26,6 +26,7 @@ const useFetchFilters = (url) => {
   const filterHandler = useCallback(
     async(search) => {
       try {
+        console.log(`${url}${search}`)
         setLoading(true);
         const response = await fetch(`${url}${search}`);
         const result = await response.json();
