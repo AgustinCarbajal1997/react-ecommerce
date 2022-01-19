@@ -1,7 +1,4 @@
 const ComparisonFrame = ({ fields }) => {
-  Object.entries(fields)
-    .slice(0, 1)
-    .map((field) => field[1].map((item) => console.log(item.title)));
   return (
     <div className="comparison-container">
       <div className="comparison-products">
