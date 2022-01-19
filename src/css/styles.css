@@ -915,30 +915,41 @@ body {
   width: 90%;
   margin: auto;
   display: grid;
-  grid-template-columns: 24% 19% 19% 19% 19%;
   background-color: white;
+  box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.08);
 }
 .comparison-container .comparison-products {
   display: grid;
   border-left: #DADADA 1px solid;
-  margin: 20px 0px;
 }
 .comparison-container .comparison-products .comparison-products-data {
   display: grid;
-  margin-bottom: 50px;
-  grid-template-rows: 3fr repeat(3, 1fr);
+  grid-template-columns: 24% 19% 19% 19% 19%;
 }
-.comparison-container .comparison-products .comparison-products-data img {
-  width: 70%;
-  height: auto;
-  margin: auto;
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.comparison-container .comparison-products .comparison-products-data h3 {
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-title h3 {
   padding-left: 30px;
   padding-right: 30px;
   font-size: 1.4rem;
 }
-.comparison-container .comparison-products .comparison-products-data h4 {
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-products {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-left: 1px solid #d2d3d9;
+}
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-products img {
+  width: 70%;
+  height: auto;
+  margin: auto;
+}
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-products h4 {
   text-align: center;
   font-weight: 400;
   cursor: pointer;
@@ -946,11 +957,11 @@ body {
   font-size: 0.8rem;
   padding: 0px 20px;
 }
-.comparison-container .comparison-products .comparison-products-data h5 {
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-products h5 {
   font-size: 1rem;
   text-align: center;
 }
-.comparison-container .comparison-products .comparison-products-data button {
+.comparison-container .comparison-products .comparison-products-data .comparison-products-data-products button {
   width: 60%;
   margin: auto;
   background-color: #654bb9;
@@ -962,20 +973,35 @@ body {
   cursor: pointer;
 }
 .comparison-container .comparison-products .comparison-products-fields {
-  display: flex;
+  display: grid;
+  grid-template-columns: 24% 19% 19% 19% 19%;
+  height: 100px;
   align-items: center;
 }
-.comparison-container .comparison-products .comparison-products-fields h5 {
-  font-size: 1rem;
+.comparison-container .comparison-products .comparison-products-fields .comparison-products-fieldsCompare {
   padding-left: 30px;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.comparison-container .comparison-products .comparison-products-fields .comparison-products-fieldsCompare h5 {
+  font-size: 1rem;
   margin: 0;
 }
-.comparison-container .comparison-products .comparison-products-fields h6 {
+.comparison-container .comparison-products .comparison-products-fields .comparison-products-fieldsItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 20px;
+  height: 100%;
+  border-left: 1px solid #d2d3d9;
+}
+.comparison-container .comparison-products .comparison-products-fields .comparison-products-fieldsItem h6 {
   width: 100%;
   font-weight: 400;
   font-size: 0.8rem;
   text-align: center;
-  padding: 0px 20px;
   margin: 0;
 }
 .comparison-container .comparison-products .comparison-products-fields:nth-child(even) {

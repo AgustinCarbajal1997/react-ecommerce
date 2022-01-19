@@ -8,7 +8,7 @@ const ComparingProductsButton = ({ item }) => {
     const onClickInputHandler = (e) => {
         if(isChecked) return dispatch(deleteComparison(item.id));
         if(comparisons.length >= 4) return e.preventDefault();
-        dispatch(addToCompare(item))
+        dispatch(addToCompare(item.id))
     }
     useEffect(() => {
         if(!comparisons.length) return;
