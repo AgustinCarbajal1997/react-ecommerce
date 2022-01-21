@@ -26,10 +26,6 @@ const NAV_BAR_ITEMS = [
     {
         href:"/smartwatch",
         item:"Moda y Estilo"
-    },
-    {
-        href:"/comparar",
-        item:"Comparar"
     }
 ];
 

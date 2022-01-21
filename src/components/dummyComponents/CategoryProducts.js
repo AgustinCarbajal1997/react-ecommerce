@@ -4,8 +4,10 @@ import ListingProducts from "./ListingProducts";
 import LoadingBars from "../Loading";
 import FilterProductsForm from "./FilterProductsForm";
 import { useEffect } from "react";
+import { useSelector } from "react-redux";
 const CategoryProducts = () => {
   const { category } = useParams();
+  const productsState = useSelector((state) => state.comparison.products);
   const url = `http://localhost:8080/api/products/getByCategory/${category}`;
   const { search } = useLocation();
   const { loading, data, filteredData, filterHandler } = useFetchFilters(url);
@@ -26,7 +28,7 @@ const CategoryProducts = () => {
           filteredData={filteredData}
         />
       )}
-      {filteredData && <ListingProducts products={filteredData} />}
+      {filteredData && <ListingProducts products={filteredData} productsState={productsState}/>}
     </div>
   );
 };

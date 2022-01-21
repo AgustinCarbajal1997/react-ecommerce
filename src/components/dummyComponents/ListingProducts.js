@@ -1,10 +1,12 @@
-import React from "react";
+import React, { useRef } from "react";
 import { Link } from "react-router-dom";
 import ComparingProductsButton from "./comparison/ComparingProductsButton";
+import ComparisonBar from "./comparison/ComparisonBar";
 
-const ListingProducts = ({ products }) => {
+const ListingProducts = ({ products, productsState }) => {
+  const sectionList = useRef(0);
   return (
-    <section className="products-list">
+    <section ref={sectionList} className="products-list">
       {products.map((item) => {
         return (
           <div key={item.id} className="products-list-item">
@@ -25,6 +27,9 @@ const ListingProducts = ({ products }) => {
           </div>
         );
       })}
+      {
+        productsState.length && <ComparisonBar clientWidth={sectionList.current.clientWidth} productsState={productsState}/>
+      }
     </section>
   );
 };

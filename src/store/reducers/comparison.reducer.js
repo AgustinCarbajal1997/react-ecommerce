@@ -7,14 +7,21 @@ const INITIAL_STATE = {
 const ComparisonReducer = (state=INITIAL_STATE,action) =>{
     switch (action.type) {
         case ADD_COMPARISON:
-            const newComparison = [...state.products, action.payload];
-
+            // const newComparison = [...state.products, action.payload];
+            // console.log(action.payload)
+            let newComparison;
+            const isExisted = state.products.find(item => item === action.payload);
+            if(!isExisted && state.products.length>=4) return state;
+            isExisted
+                ? newComparison = state.products.filter(item => item !== action.payload)
+                : newComparison = [...state.products, action.payload]
             return { 
                 ...state,
                 products:newComparison
             }
         case DELETE_COMPARISON:
-            const deleteComparison = state.products.filter(item => item.id !== action.payload);
+            console.log("deleteComparison", action.payload)
+            const deleteComparison = state.products.filter(item => item !== action.payload);
             return {
                 ...state,
                 products:deleteComparison

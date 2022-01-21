@@ -693,9 +693,103 @@ body {
   margin: auto;
   background-color: whitesmoke;
   display: grid;
+  position: relative;
   justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(240px, 300px));
   gap: 10px;
+  margin-bottom: 100px;
+}
+
+.comparison-bar-container {
+  position: fixed;
+  bottom: 0;
+}
+.comparison-bar-container .comparison-bar-title {
+  background-color: #654bb9;
+}
+.comparison-bar-container .comparison-bar-title h4 {
+  margin: 0;
+  color: #ffffff;
+  font-size: 0.9rem;
+  padding: 9px 18px;
+}
+.comparison-bar-container .comparison-bar-title h4 span {
+  background-color: #ffffff;
+  color: #654bb9;
+  border-radius: 40%;
+  font-size: 1rem;
+}
+.comparison-bar-container .comparison-bar-fields {
+  width: 100%;
+  display: flex;
+  height: 130px;
+  background-color: #ffffff;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products {
+  width: 85%;
+  display: flex;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div {
+  width: 25%;
+  display: flex;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div .comparison-bar-fields-products__img {
+  width: 50%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div .comparison-bar-fields-products__img img {
+  width: 95%;
+  object-position: center;
+  object-fit: contain;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div .comparison-bar-fields-products__data {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border-right: 1px solid #DADADA;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div .comparison-bar-fields-products__data h5 {
+  font-weight: 400;
+  font-size: 0.8rem;
+  margin: 0;
+  padding-right: 3px;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-products div .comparison-bar-fields-products__data h6 {
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin: 0;
+  padding-top: 6px;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-buttons {
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-buttons .comparison-bar-fields-buttons-compare {
+  background-color: #ffffff;
+  border: #441799 1px solid;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 600;
+  color: #441799;
+  padding: 5px 10px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.comparison-bar-container .comparison-bar-fields .comparison-bar-fields-buttons .comparison-bar-fields-buttons-delete {
+  background-color: #ffffff;
+  border: none;
+  font-family: "Work Sans", sans-serif;
+  color: #005fff;
+  margin-top: 10px;
+  cursor: pointer;
 }
 
 .products-list-item {
