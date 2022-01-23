@@ -7,7 +7,6 @@ export const addToCompare = (item) => ({
     payload:item
 })
 
-export const deleteComparison = (id) => ({
-    type:DELETE_COMPARISON,
-    payload:id
+export const deleteComparison = () => ({
+    type:DELETE_COMPARISON
 })

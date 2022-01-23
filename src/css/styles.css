@@ -11,6 +11,110 @@ body {
   background-color: whitesmoke;
 }
 
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.search-container {
+  margin-top: 50px;
+  width: 90%;
+  display: grid;
+  grid-template-columns: 90% 10%;
+  margin-bottom: 10px;
+  position: relative;
+}
+.search-container input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  height: 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: #654bb9 1px solid;
+  outline: none;
+}
+.search-container input::placeholder {
+  text-align: left;
+  font-size: 1rem;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+}
+.search-container .search-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #654bb9;
+  cursor: pointer;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.search-container .search-option {
+  width: 100%;
+  position: absolute;
+  top: 102%;
+  background-color: #ffffff;
+  z-index: 999999;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.75);
+}
+.search-container .search-option ul {
+  padding: 0;
+  list-style: none;
+}
+.search-container .search-option ul a {
+  text-decoration: none;
+}
+.search-container .search-option ul a li {
+  padding: 10px 20px 10px 20px;
+  padding-bottom: 10px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: #292929;
+}
+.search-container .search-option ul a li:hover {
+  background-color: #f9f9f9;
+}
+
+.nav-menu {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: fixed;
+  inset: 0;
+  background-color: #ffffff;
+  z-index: 99999;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding-top: 60px;
+  transition: all 0.5s;
+  left: -100%;
+}
+
+.nav-item {
+  color: #292929;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 1.2rem;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.hamburger {
+  position: fixed;
+  left: 1rem;
+  top: 0.5rem;
+  z-index: 9999999;
+}
+
 @media screen and (min-width: 1050px) {
   .header {
     display: flex;
@@ -18,6 +122,10 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #ffffff;
+  }
+
+  .hamburger {
+    display: none;
   }
 
   .search-container {
@@ -85,10 +193,14 @@ body {
 
   .nav-menu {
     width: 100%;
+    height: unset;
     display: flex;
+    position: static;
+    flex-direction: row;
     justify-content: space-between;
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
+    padding-top: 0;
     padding-left: 40px;
     padding-right: 40px;
   }
@@ -180,48 +292,110 @@ body {
   margin-top: 4%;
   position: relative;
   overflow: hidden;
-}
-.section-options .section-options-list {
   display: flex;
-  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.section-options .optionsList-mobile {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
   list-style: none;
   padding: 0;
-  position: relative;
-  transition: all 1s ease;
+  row-gap: 15px;
 }
-.section-options .section-options-list .section-options-list-item .section-options-list__card img {
+.section-options .optionsList-mobile .hideCategory {
+  display: none;
+}
+.section-options .optionsList-mobile .optionsList-mobile-list {
+  width: 90%;
+  margin: 0 auto;
+}
+.section-options .optionsList-mobile .optionsList-mobile-list figure {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  margin: auto;
+}
+.section-options .optionsList-mobile .optionsList-mobile-list figure img {
   width: 100%;
   height: auto;
+  object-fit: contain;
+  object-position: center;
   border-radius: 50%;
-  background-color: white;
-  transition: all 0.2s ease-in-out;
-  cursor: pointer;
+  background-color: #ffffff;
 }
-.section-options .section-options-list .section-options-list-item .section-options-list__card img:hover {
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.28);
-}
-.section-options .section-options-list .section-options-list-item .section-options-list__card figcaption {
+.section-options .optionsList-mobile .optionsList-mobile-list figure figcaption {
   text-align: center;
+  font-size: 0.8rem;
+}
+.section-options .optionList-mobile-see-categories {
+  width: 90%;
+  border: 1px solid #470099;
+  background-color: #f5f5f5;
+  color: #470099;
+  font-size: 1.2rem;
+  font-family: "Work Sans", sans-serif;
   font-weight: 500;
-  color: #4a4a4a;
-}
-.section-options .button-optionleft {
-  position: absolute;
-  top: 50%;
-  left: 2rem;
-  transform: translateY(-50%);
-  font-size: 2rem;
-  cursor: pointer;
-}
-.section-options .button-optionright {
-  position: absolute;
-  top: 50%;
-  right: 2rem;
-  transform: translateY(-50%);
-  font-size: 2rem;
-  cursor: pointer;
+  border-radius: 3px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
+@media screen and (min-width: 768px) {
+  .section-options {
+    width: 100%;
+    margin-top: 4%;
+    position: relative;
+    overflow: hidden;
+  }
+  .section-options .section-options-list {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    list-style: none;
+    padding: 0;
+    position: relative;
+    transition: all 1s ease;
+  }
+  .section-options .section-options-list .section-options-list-item .section-options-list__card img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    background-color: white;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  .section-options .section-options-list .section-options-list-item .section-options-list__card img:hover {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.28);
+  }
+  .section-options .section-options-list .section-options-list-item .section-options-list__card figcaption {
+    text-align: center;
+    font-weight: 500;
+    color: #4a4a4a;
+  }
+  .section-options .button-optionleft {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 2rem;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  .section-options .button-optionright {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 2rem;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    cursor: pointer;
+  }
+}
 .sales-off-section {
   background-color: white;
   width: 95%;
@@ -235,18 +409,18 @@ body {
   box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.27);
 }
 .sales-off-section .sales-off-section__title {
-  padding-left: 1%;
   width: 100%;
   text-align: center;
   display: flex;
   align-items: center;
 }
 .sales-off-section .sales-off-section__title h3 {
+  width: 100%;
   margin: 0;
   background-color: #470099;
   background-image: linear-gradient(90deg, #470099 0%, #8c0099 46%, #d20199 100%);
   color: whitesmoke;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 600;
   padding: 7px 20px;
   letter-spacing: 1px;
@@ -257,6 +431,8 @@ body {
   transition: all 0.5s ease;
 }
 .sales-off-section .sales-off-section__products .sales-off-section__card {
+  margin-top: 10px;
+  margin-bottom: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -343,6 +519,22 @@ body {
   user-select: none;
 }
 
+@media screen and (min-width: 768px) {
+  .sales-off-section .sales-off-section__title {
+    padding-left: 1%;
+  }
+  .sales-off-section .sales-off-section__title h3 {
+    width: auto;
+    margin: 0;
+    background-color: #470099;
+    background-image: linear-gradient(90deg, #470099 0%, #8c0099 46%, #d20199 100%);
+    color: whitesmoke;
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 7px 20px;
+    letter-spacing: 1px;
+  }
+}
 .weDeliverIt-section {
   width: 95%;
   margin: auto;
@@ -438,7 +630,9 @@ body {
   position: relative;
 }
 .carousel-five-products-view-section .title-carousel-five-products {
-  font-size: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
 }
 .carousel-five-products-view-section .carousel-five-products-view-container {
   background-color: whitesmoke;
@@ -546,6 +740,21 @@ body {
   color: #aaaaaa;
 }
 
+@media screen and (min-width: 768px) {
+  .carousel-five-products-view-section {
+    width: 95%;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    overflow: hidden;
+    position: relative;
+  }
+  .carousel-five-products-view-section .title-carousel-five-products {
+    width: auto;
+    font-size: 1.5rem;
+    text-align: unset;
+  }
+}
 .category-products-container {
   width: 95%;
   display: grid;
@@ -682,10 +891,28 @@ body {
   cursor: not-allowed;
 }
 
-.b-contain input:checked:focus ~ .b-input, .b-contain:hover input:not([disabled]):checked ~ .b-input {
-  background: #654bb9;
-  border-color: #654bb9;
-  outline: none;
+.button-comparison {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.artificial-checkbox {
+  width: 20px;
+  height: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #b8c2cc;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tick {
+  background-color: #654bb9;
 }
 
 .products-list {
@@ -706,6 +933,14 @@ body {
 }
 .comparison-bar-container .comparison-bar-title {
   background-color: #654bb9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.comparison-bar-container .comparison-bar-title div {
+  margin-right: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
 }
 .comparison-bar-container .comparison-bar-title h4 {
   margin: 0;
@@ -716,8 +951,10 @@ body {
 .comparison-bar-container .comparison-bar-title h4 span {
   background-color: #ffffff;
   color: #654bb9;
-  border-radius: 40%;
+  border-radius: 50%;
   font-size: 1rem;
+  border: 4px solid #ffffff;
+  padding: 0 5px;
 }
 .comparison-bar-container .comparison-bar-fields {
   width: 100%;

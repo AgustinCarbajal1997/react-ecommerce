@@ -7,8 +7,6 @@ const INITIAL_STATE = {
 const ComparisonReducer = (state=INITIAL_STATE,action) =>{
     switch (action.type) {
         case ADD_COMPARISON:
-            // const newComparison = [...state.products, action.payload];
-            // console.log(action.payload)
             let newComparison;
             const isExisted = state.products.find(item => item === action.payload);
             if(!isExisted && state.products.length>=4) return state;
@@ -20,11 +18,9 @@ const ComparisonReducer = (state=INITIAL_STATE,action) =>{
                 products:newComparison
             }
         case DELETE_COMPARISON:
-            console.log("deleteComparison", action.payload)
-            const deleteComparison = state.products.filter(item => item !== action.payload);
             return {
                 ...state,
-                products:deleteComparison
+                products:[]
             }
         default:
             return state;

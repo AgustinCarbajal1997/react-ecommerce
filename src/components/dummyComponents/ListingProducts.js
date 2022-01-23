@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import ComparingProductsButton from "./comparison/ComparingProductsButton";
 import ComparisonBar from "./comparison/ComparisonBar";
 
-const ListingProducts = ({ products, productsState }) => {
+const ListingProducts = ({ products, productsState, deleteAllComparison }) => {
   const sectionList = useRef(0);
   return (
     <section ref={sectionList} className="products-list">
@@ -23,12 +23,12 @@ const ListingProducts = ({ products, productsState }) => {
               <h4 className="products-list-item__title">{item.title}</h4>
               <h5 className="products-list-item__price">${item.price}</h5>
             </Link>
-            <ComparingProductsButton item={item}/>
+            <ComparingProductsButton item={item} productsState={productsState}/>
           </div>
         );
       })}
       {
-        productsState.length && <ComparisonBar clientWidth={sectionList.current.clientWidth} productsState={productsState}/>
+        productsState.length > 0 && <ComparisonBar clientWidth={sectionList.current.clientWidth} productsState={productsState} deleteAllComparison={deleteAllComparison}/>
       }
     </section>
   );

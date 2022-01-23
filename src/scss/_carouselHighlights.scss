@@ -7,7 +7,9 @@
     overflow: hidden;
     position: relative;
     .title-carousel-five-products {
-        font-size: 1.5rem;
+        width: 100%;
+        text-align: center;
+        font-size: 1rem;
     }
     .carousel-five-products-view-container {
         background-color: whitesmoke;
@@ -121,4 +123,20 @@
         color: rgb(170, 170, 170);
     }
 
+}
+
+@media screen and (min-width: 768px){
+    .carousel-five-products-view-section {
+        width: 95%;
+        margin: auto;
+        margin-top: 4%;
+        margin-bottom: 4%;
+        overflow: hidden;
+        position: relative;
+        .title-carousel-five-products {
+            width: auto;
+            font-size: 1.5rem;
+            text-align: unset;
+        }
+    }
 }

@@ -9,7 +9,7 @@ import salesOffQueries from "../components/dummyComponents/carouselSalesOff/Sale
 import CarouselHighlightsContainer from "../components/dummyComponents/carouselHighlights/CarouselHighlightsContainer";
 const Home = () => {
   const { data: salesoff } = useFetch(
-    "http://localhost:8080/api/products/getByDiscount/salesoff"
+    "http://localhost:8080/api/products/getByDiscount/saleoff"
   );
   const { data: highlighted } = useFetch(
     "http://localhost:8080/api/products/getByDiscount/highlighted"
