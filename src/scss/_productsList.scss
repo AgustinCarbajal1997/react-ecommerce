@@ -1,25 +1,49 @@
 // CATEGORY PRODUCTS
 .category-products-container{
     width: 95%;
-    display: grid;
-    grid-template-columns: 25% 75%;
     margin: 30px auto;
 }
 
 
 
 .aside-form-container{
+    width: 100%;
+    height: 100vh;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
+    position: fixed;
+    z-index: 99999999;
+    background-color: #ffffff;
+    padding-top: 40px;
+    top: 0;
+    // left: 0%;
+    transition: all 2s;
+    .filter-buton-aside{
+        width: 90%;
+        display: flex;
+        justify-content: flex-end;
+        button{
+            background-color: #654bb9;
+            color: #ffffff;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            border-radius: 3px;
+            border: none;
+            padding:5px 10px ;
+        }
+    }
     h3{
         color: rgb(72, 72, 72);
+        padding-left: 20px;
     }
     h4{
         font-size: 1rem;
         font-weight: 400;
         color: #585858;
         margin: 0;
+        padding-left: 20px;
         span{
             color: rgb(72, 72, 72);
             font-weight: 700;
@@ -29,6 +53,7 @@
         display: flex;
         justify-content: flex-start;
         flex-direction: column;
+        padding-left: 20px;
         label{
             margin-top: 20px;
             color: rgb(88, 88, 88);
@@ -61,6 +86,17 @@
         }
     }
 }
+.filter-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h4{
+        padding-left: 10px;
+        color: #654bb9;
+    }
+}
+
+
 // chekbox
 
 .b-contain *, .b-contain *::before, .b-contain *::after {
@@ -330,8 +366,80 @@
     color: #000000;
 }
 
+@media screen and (min-width: 768px){
+    .filter-button{
+        display: none;
+    }
+}
 
-@media screen and (min-width: 1050px){
-
+@media screen and (min-width: 768px){
+    .category-products-container{
+        width: 95%;
+        display: grid;
+        grid-template-columns: 25% 75%;
+        margin: 30px auto;
+        .aside-form-container{
+            width: unset;
+            height: unset;
+            position: static;
+            background-color: unset;
+            padding-left: 0px;
+            padding-top: 0px;
+            .filter-buton-aside{
+                display: none;
+            }
+            h3{
+                color: rgb(72, 72, 72);
+                padding-left: 0;
+            }
+            h4{
+                font-size: 1rem;
+                font-weight: 400;
+                color: #585858;
+                margin: 0;
+                padding-left: 0;
+                span{
+                    color: rgb(72, 72, 72);
+                    font-weight: 700;
+                }
+            }
+            form{
+                display: flex;
+                justify-content: flex-start;
+                flex-direction: column;
+                padding-left: 0;
+                label{
+                    margin-top: 20px;
+                    color: rgb(88, 88, 88);
+                    font-size: .9rem;
+                }
+                .label-checkbox{
+                    margin-top: 10px;
+                }
+                .brand-label{
+                    color: rgb(72, 72, 72);
+                    font-size: .9rem;
+                    font-weight: 700;
+                }
+                .select{
+                    background-color: transparent;
+                    outline: none;
+                    border: none;
+                    text-align: center;
+                    font-size: 1rem;
+                    color: rgb(72, 72, 72);
+                    font-weight: 700;
+                    cursor: pointer;
+        
+                    option{
+                        background-color: white;
+                        font-size: 1rem;
+                        font-weight: 700;
+                        color: rgb(72, 72, 72);
+                    }
+                }
+            }
+        }
+    }
 }
 

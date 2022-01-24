@@ -1,7 +1,14 @@
 import { useRef, useEffect, useState } from "react";
 import { useHistory } from "react-router-dom";
-const FilterProductsForm = ({ data, search, filteredData }) => {
+const FilterProductsForm = ({
+  data,
+  search,
+  filteredData,
+  hideFilter,
+  setHideFilter,
+}) => {
   const [brands, setBrands] = useState(null);
+
   const [checked, setChecked] = useState({});
   const formRef = useRef();
   const history = useHistory();
@@ -35,9 +42,17 @@ const FilterProductsForm = ({ data, search, filteredData }) => {
   }, [data]);
 
   return (
-    <aside className="aside-form-container">
+    <aside
+      style={{ left: hideFilter ? "-100%" : "0" }}
+      className="aside-form-container"
+    >
+      <div className="filter-buton-aside">
+        <button onClick={() => setHideFilter(true)}>FILTRAR</button>
+      </div>
       <h3>Filtrá tus productos</h3>
-      <h4><span>{filteredData.length}</span> resultados</h4>
+      <h4>
+        <span>{filteredData.length}</span> resultados
+      </h4>
       <form onChange={filterFormHandler} ref={formRef}>
         <label>
           ORDENAR POR:
