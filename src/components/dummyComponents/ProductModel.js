@@ -1,9 +1,11 @@
 import React,{ useState } from 'react'
-
+import { Accordion } from './productDetails/AccordionList'
+import useCurrentWidth from "../../customHooks/useCurrentWidth"
+import TableSpecifications from './productDetails/TableSpecifications'
 
 const ProductModel = ({ item }) => {
     const [currentImg, setCurrentImg] = useState(0)
-
+    const witdh = useCurrentWidth()
     return (
         <>
             <div className="product-view-carousel">
@@ -25,18 +27,11 @@ const ProductModel = ({ item }) => {
             </div>
             <div className="product-view-specifications">
                 <h2>{item.title}</h2>
-                <ul className="product-view-specifications__ul">
-                    <h3>Especificaciones técnicas</h3>
-                    {item.specifications.map((esp, index) =>{
-                        return(
-                            <li key={index} className="product-view-specifications__li">
-                                <h3>{esp.title}</h3>
-                                <h4>{esp.especifications1}</h4>
-                                <h4>{esp.especifications2}</h4>
-                            </li>
-                        )
-                    })}
-                </ul>
+                {
+                    (witdh === "xs" || witdh==="sm")
+                        ? <Accordion data={item.specifications}/>
+                        : <TableSpecifications data={item.specifications}/>
+                }
             </div>
             <div className="product-view-features">
                 <h3>Descripción</h3>

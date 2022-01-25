@@ -1192,6 +1192,9 @@ body {
   align-items: center;
 }
 .product-view .product-view-carousel .product-view-carousel__bigImage img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
   margin: auto;
 }
 .product-view .product-view-carousel .product-view-carousel__previewPics {
@@ -1237,6 +1240,33 @@ body {
   font-size: 1.1rem;
   font-weight: 600;
   cursor: pointer;
+}
+.product-view .accordion-list {
+  width: 95%;
+  margin: 20px auto 0px auto;
+  grid-area: specifications;
+}
+.product-view .accordion-list h3 {
+  font-size: 1.3rem;
+}
+.product-view .accordion-list .accordion-list-item {
+  border-top: 1px solid #d2d3d9;
+}
+.product-view .accordion-list .accordion-list-item .accordion-list-item__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+.product-view .accordion-list .accordion-list-item .accordion-list-item__title div {
+  transition: all 0.3s;
+}
+.product-view .accordion-list .accordion-list-item .accordion-list-item__esp {
+  width: 90%;
+  margin: auto;
+  font-weight: 400;
+  font-size: 1rem;
 }
 .product-view .product-view-specifications {
   grid-area: specifications;
@@ -1293,7 +1323,7 @@ body {
   line-height: 24px;
 }
 
-@media screen and (min-width: 1050px) {
+@media screen and (min-width: 768px) {
   .product-view {
     grid-template-areas: "carousel titles" "specifications specifications" "features features";
   }
