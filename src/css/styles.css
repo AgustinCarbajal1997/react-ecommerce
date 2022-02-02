@@ -2012,5 +2012,75 @@ body {
     cursor: pointer;
   }
 }
+@media screen and (min-width: 1050px) {
+  .purchase-page {
+    width: 90%;
+    margin: auto;
+  }
+  .purchase-page .purchases-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+  }
+  .purchase-page .purchases-container .purchase-item {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: "title title" "data total";
+    background-color: white;
+    box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.27);
+  }
+  .purchase-page .purchases-container .purchase-item h3 {
+    grid-area: title;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data {
+    width: 90%;
+    margin: auto;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data h4 {
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products {
+    width: 90%;
+    margin: auto;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products .purchase-item-data-product {
+    display: flex;
+    flex-direction: column;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products .purchase-item-data-productTitle {
+    font-size: 0.8rem;
+    font-weight: 400;
+    width: 100%;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products .purchase-item-data-productTitle h5 {
+    font-size: 0.7rem;
+    font-weight: 400;
+    margin: 0;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products .purchase-item-data-productPrice {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: #d2d3d9 1px solid;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-data .purchase-item-data-products .purchase-item-data-productPrice h5 {
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin: 0;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-total {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .purchase-page .purchases-container .purchase-item .purchase-item-total h4 {
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+}
 
 /*# sourceMappingURL=styles.css.map */

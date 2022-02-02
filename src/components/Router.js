@@ -17,6 +17,7 @@ import PrivateRoutes from "./router/PrivateRoutes";
 import Favorites from "../pages/Favorites";
 import DataUser from "../pages/DataUser";
 import Cart from "../pages/Cart";
+import Purchases from "../pages/Purchases";
 const cookies = new Cookies();
 const RouterEcommerce = () => {
   let location = useLocation();
@@ -40,6 +41,9 @@ const RouterEcommerce = () => {
         <Route exact path="/" component={Home} />
         <Route path="/search" component={SearchContainer} />
         <Route path="/comparar" component={Comparison} />
+        <PrivateRoutes path="/perfil/compras">
+          <Purchases/>
+        </PrivateRoutes>
         <PrivateRoutes path="/perfil/carrito">
           <Cart/>
         </PrivateRoutes>
