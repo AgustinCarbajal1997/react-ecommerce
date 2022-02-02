@@ -13,7 +13,9 @@ body {
 
 
 @import "header";
+@import "auth";
 @import "banner";
+@import "profile";
 @import "carouselOptions";
 @import "carouselSalesOff";
 @import "carouselDelivery";
@@ -23,3 +25,4 @@ body {
 @import "Loading";
 @import "breadcrumb";
 @import "comparisonPage";
+@import "cart";

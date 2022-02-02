@@ -57,7 +57,11 @@
         align-items: flex-start;
         flex-direction: column;
         padding-top: 30px;
-
+        .book-mark-container{
+            width: 100%;
+            display: flex;
+            justify-content: flex-end;
+        }
         h2 {
             font-size: 1.6rem;
             text-align: left;

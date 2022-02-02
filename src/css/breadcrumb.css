@@ -5,20 +5,15 @@
   align-items: center;
   padding-left: 20px;
 }
-
 .breadcrumb-container div {
   display: flex;
   align-items: center;
   padding-left: 5px;
 }
-
 .breadcrumb-container div .breadcrumb-item {
   text-decoration: none;
   color: #4a4a4a;
   font-size: 0.8rem;
 }
-
-/*# sourceMappingURL=breadcrumb.css.map */
-/*# sourceMappingURL=breadcrumb.css.map */
 
 /*# sourceMappingURL=breadcrumb.css.map */
